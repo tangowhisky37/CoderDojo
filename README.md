@@ -1,5 +1,5 @@
 
-## CoderDojo Altona North
+# CoderDojo Altona North
 
 Welcome to CoderDojo Altona North. At this page you will find all the information required to sign-up to CoderDojo Altona North including helpful links to getting your kids started on the path to becoming a maker!!!
 
