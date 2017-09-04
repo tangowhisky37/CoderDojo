@@ -32,7 +32,7 @@ You can read more about the CoderDojo movement at [CoderDojo.com](https://coderd
 
 ## Who Runs The CoderDojo
 
-CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at coderdojo-altona-north at practicalperformanceanalyst dot com. 
+CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at altona-north-dojo at practicalperformanceanalyst dot com. 
 
 ## What Do I Need To Bring Along
 
