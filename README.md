@@ -18,7 +18,7 @@ At CoderDojo Altona North, young people aged between 7 and 17, learn how to code
 
 At CoderDojo Altona North our aim is to Ignite, Inspire and Create. We strongly believe that every child is a born  maker. What she/he needs is the right environment to Ignite those interests and Inspire them to Create. At CoderDojo Altona North there is a strong focus on community, peer learning, youth mentoring and self led learning, with an emphasis on showing how coding, making and hacking is a force for change in the world.
 
-We might consider folowing a syllabus where it makes sense, especially with our young makers who are getting started. With the more experienced makers we will let the kids choose what they want to work on, and the mentors guide and help them along their journey of discovery into the world of technology. Some of the things we do at CoderDojo Melbourne include:
+We might consider folowing a syllabus where it makes sense, especially with our young makers who are getting started. With the more experienced makers we will let the kids choose what they want to work on, and the mentors guide and help them along their journey of discovery into the world of technology. Some of the things we do at CoderDojo Altona North include:
 
 - Coding in Scratch
 - Python developing on the Raspberry Pi
