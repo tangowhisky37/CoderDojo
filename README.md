@@ -103,33 +103,9 @@ Here's some of the website we've used. There's no recommended websites or vendor
 * [Digikey](https://www.digikey.com.au/)
 
 
-### Documentation & Tutorials -
-* [Adafruit Electronics Tutorials](https://learn.adafruit.com/)
-* [Sparkfun Electronics Tutorials](https://learn.sparkfun.com/)
-* [Circuitbasics](http://www.circuitbasics.com/)
-* [Hackster.io](http://www.hackster.io)
-* [Hackaday](https://hackaday.io)
-* [Instructables](http://www.instructables.com)
-* [Initialstate](https://www.initialstate.com/learn/)
-* [All About Circuits](https://www.allaboutcircuits.com)
-* [DIY Hacking](https://diyhacking.com/)
-* [Random Nerd Tutorials](https://randomnerdtutorials.com/)
-* [Programming Electronics](https://programmingelectronics.com/home/)
-* [Hello World Magazine](https://helloworld.raspberrypi.org/helloworld)
-* [Raspberry Pi Learning Resources for kids](https://www.raspberrypi.org/resources/)
-  * [Raspberry Pi Magazine](http://www.raspberrypi.org/magpi/)
-  * [Installing OpenCV 3 on the Raspberry Pi 3 (Raspbian Jessie)](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/)
-  * [Pi Moroni Tutorials](http://learn.pimoroni.com)
-  * [Pi My Life Up](https://pimylifeup.com/)
-* [Makezine's guide to boards for makers](http://makezine.com/comparison/boards/)
-* [Makezine - Magazine for makers](http://makezine.com)
-* [Arduino.cc](http://www.arduino.cc)
-  * [Arduino Blog - http://arduino-er.blogspot.com.au](http://arduino-er.blogspot.com.au)
-  * [A Beginners Guide to the Arduino](http://wwww.instructables/com/id/A-Begginers-Guide-to-Arduino/)
-  * [Jaycar Arduino Projects](https://www.jaycar.com.au/arduino)
-
-
 ### Important Links -
+* [CoderDojo](https://coderdojo.com/)
+* [Code Club](https://codeclubprojects.org/en-GB/)
 * [Raspberry Pi Foundation](http://www.raspberrypi.org)
 * [BBC Microbit](https://www.microbit.co.uk)
 * [Arduino.cc](http://www.arduino.cc)
@@ -139,4 +115,3 @@ Here's some of the website we've used. There's no recommended websites or vendor
 * [Etcher - Write Raspberry Pi Image to the SD Card](http://etcher.io)
 * [Win32DiskImager - Write Raspberry Pi Images to the SD Card](http://sourceforge.net/projects/win32diskimager/)
 * [Fritzing - Software to design circuits](http://fritzing.org)
-* [PiNet - Centralised user accounts & file storage system for a Raspberry Pi Classroom](http://pinet.org.uk)
