@@ -8,7 +8,7 @@ Welcome to CoderDojo Altona North. At this page you will find all the informatio
 We'll use this section for updates. 
 
 - 040917 : Working on getting the word out there. Web presence launched. Looking for a place to host our Dojo.
-
+- 100917 : Limited spaces fillup quickly. Looking to build team of mentors, volunteers. Working on confirming location for Dojo.
 
 ## What Is A CoderDojo
 
