@@ -1,0 +1,23 @@
+.contents {
+    padding: 20px;
+}
+
+.game-name {
+    length: 100px;
+    width: 250px;
+    height: 30px;
+}
+
+.input-group {
+    display: flex;
+    padding: 10px;
+    width: 450px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
