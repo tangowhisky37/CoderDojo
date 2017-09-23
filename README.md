@@ -10,6 +10,7 @@ We'll use this section for updates.
 - 040917 : Working on getting the word out there. Web presence launched. Looking for a place to host our Dojo.
 - 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
 - 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
+- 230917 : Learning Management System setup. 4 Scratch programming courses setup. 
 
 ## What Is A CoderDojo
 
@@ -31,6 +32,8 @@ We might consider folowing a syllabus where it makes sense, especially with our 
 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
+Please make sure you have obtained a ticket (FREE) using the links below and also registered at our Learning Management System. We use the Learning Management system to give you access to the tutorials and also track your childs progress through the program.
+
 ## Who Runs The CoderDojo
 
 CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at altona-north-dojo at practicalperformanceanalyst dot com. 
@@ -51,6 +54,20 @@ So come join us, have fun and share in the learning. Let's Ignite the flame of l
 To book at seat at the CoderDojo please visit [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
 
 Seats are limited, so please make sure you have reserved a seat for the session. 
+
+## How Do I Register With the Learning Management System 
+
+At the Altona North Coder Dojo we are using the [Schoology](http://schoology.com/) Learning Management System or LMS. The Learning Management system allows us to track your childs progress through the program, your attendance through the program and also the progress through the various tutorials assigned during the term.
+
+Please register your child using the following link - 
+
+- Please head over to [https://www.schoology.com/](http://schoology.com/) and create a new account
+- Please select the "Student" option when creating a new account
+- Please use the following Course Code, VV268-4D7FF which will give you access to the first term of programming with Scratch.
+
+As you progress through the program your child will be asssed and assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
+
+Please note that you will not be able to access all the tutorials for each of the classes unless you've signed up to the Learning Management System.
 
 ## Can I Volunteer & Inspire 
 
