@@ -11,6 +11,7 @@ We'll use this section for updates.
 - 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
 - 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
 - 230917 : Learning Management System setup. 4 Scratch programming courses setup. 
+- 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please volunteering section below.
 
 ## What Is A CoderDojo
 
@@ -49,11 +50,15 @@ Please bring along the following items -
 
 So come join us, have fun and share in the learning. Let's Ignite the flame of learning, let's inspire the maker in you and let's get creating!!!!
 
+If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
+
 ## Howto Book A Seat
 
 To book at seat at the CoderDojo please visit [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
 
 Seats are limited, so please make sure you have reserved a seat for the session. 
+
+If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
 ## How Do I Register With the Learning Management System 
 
@@ -68,6 +73,8 @@ Please register your child using the following link -
 As you progress through the program your child will be asssed and assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
 
 Please note that you will not be able to access all the tutorials for each of the classes unless you've signed up to the Learning Management System.
+
+If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
 ## Can I Volunteer & Inspire 
 
