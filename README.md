@@ -12,6 +12,7 @@ We'll use this section for updates.
 - 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
 - 230917 : Learning Management System setup. 4 Scratch programming courses setup. 
 - 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please volunteering section below.
+- 091017 : Change in hours - Weekly sessions for Term 4 being run on Sunday at 1000 Hrs AEST at Williamstown Community Library. 
 
 ## What Is A CoderDojo
 
@@ -34,6 +35,20 @@ We might consider folowing a syllabus where it makes sense, especially with our 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
 Please make sure you have obtained a ticket (FREE) using the links below and also registered at our Learning Management System. We use the Learning Management system to give you access to the tutorials and also track your childs progress through the program.
+
+## What Are The Courses Offered
+
+The following courses are available at Coder Dojo Altona North. Please note that not all courses are on offer for every semester. 
+
+- Scratch 101 - MIT Tutorials
+- Scratch Fundamentals I - CodeClub Tutorials 
+- Scratch Fundamentals II - CodeClub Tutorials
+- Advanced Scratch - CodeClub Tutorials
+- Electronics 101 through Arduino
+- Website Programming 101 (HTML, Javascript)
+- Python 101 
+
+Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. 
 
 ## Who Runs The CoderDojo
 
