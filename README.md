@@ -46,7 +46,8 @@ The following courses are available at Coder Dojo Altona North. Please note that
 - Advanced Scratch - CodeClub Tutorials
 - Electronics 101 through Arduino
 - Website Programming 101 (HTML, Javascript)
-- Python 101 
+- Python 101 - CodeCombat
+- Python Fundamentals - CodeClub Tutorials
 
 Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. 
 
