@@ -1,0 +1,12 @@
+
+## Topics - Electronics 101
+
+- Conductors and Insulators (there is a conductive ink pen which leads to interesting application of pen and paper)
+- Current and Voltage - explained using water pressure/flow to visualise what is happening - stick with Direct Current
+- Passive components Resistors - simple circuits, voltage and current experiments - basic Ohms law
+- Batteries and energy storage
+- Magnetism and Electricity (suggested experiments with simple electromagnets)
+- Passive components Capacitor, Inductors
+- Analogue and Digital electronics
+- Active Components diodes, transistors and IC's
+
