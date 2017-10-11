@@ -109,14 +109,12 @@ If this sounds like something you’d love to do, then what are you waiting for!
 Parent's looking for links to maker projects (software projects, hardware or electronics projects, etc.) aimed at kids including tools that they could use can consider the links below -
 
 * [Getting started with Scratch on the Raspberry Pi](https://www.raspberrypi.org/documentation/usage/scratch/)
-* [Scratch for Arduino](http://s4a.cat/)
 * [Experimental Extensions for Scratch - Arduino, BBC Microbit, etc.](http://scratchx.org/)
 * [Scratch GPIO](http://simplesi.net/scratchgpio/)
 * [Code Club Projects @ CodeClubProjects.org](https://codeclubprojects.org/en-GB/) or
 * [Code Club Projects @ Projects.RaspberryPi.org](https://projects.raspberrypi.org/en/codeclub)
 * [Robo Mind Academy](http://www.robomindacademy.com)
 * [Code Combat](http://www.codecombat.com)
-* [Edublocks](http://edublocks.org/)
 * [SonicPi](http://sonic-pi.net/)
 * [RaspberryPi Digital Maker Curriculum for kids](https://curriculum.raspberrypi.org/)
 * [Raspberry Pi Learning Resources for kids](https://www.raspberrypi.org/resources/)
@@ -130,6 +128,14 @@ Parent's looking for links to maker projects (software projects, hardware or ele
 * [CamJam Edu Kit](http://camjam.me/?page_id=236)
 * [Raspberry Pi Education Manual](http://pi.cs.man.ac.uk/download/Raspberry_Pi_Education_Manual.pdf)
 * [Making Science With Google](https://makingscience.withgoogle.com/?lang=en)
+
+Here's a list of block based programming languages other than Scratch - 
+
+* [Scratch for Arduino](http://s4a.cat/)
+* [Experimental Extensions for Scratch - Arduino, BBC Microbit, etc.](http://scratchx.org/)
+* [Snap4Arduino](https://github.com/bromagosa/Snap4Arduino)
+* [Edublocks](http://edublocks.org/)
+* [GPBlocks](https://gpblocks.org/)
 
 
 ### Purchasing Electronics, Arduino's, Rapberry Pi's Online -
@@ -150,13 +156,14 @@ Here's some of the website we've used. There's no recommended websites or vendor
 
 
 ### Important Links -
+
 * [CoderDojo](https://coderdojo.com/)
 * [Code Club](https://codeclubprojects.org/en-GB/)
 * [Raspberry Pi Foundation](http://www.raspberrypi.org)
 * [BBC Microbit](https://www.microbit.co.uk)
 * [Arduino.cc](http://www.arduino.cc)
 * [Arduino.org](http://www.arduino.org)
-* [Cicrcuito - Drag and drop interface to design circuits and auto-generate code](http://wwww.circuito.io)
+* [Cicrcuito - Drag and drop interface to design circuits and auto-generate code](http://www.circuito.io)
 * [PiBakery - Create pre-configured SD card images for your Raspberry Pi](http://www.pibakey.org)
 * [Etcher - Write Raspberry Pi Image to the SD Card](http://etcher.io)
 * [Win32DiskImager - Write Raspberry Pi Images to the SD Card](http://sourceforge.net/projects/win32diskimager/)
