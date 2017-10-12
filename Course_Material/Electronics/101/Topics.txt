@@ -9,4 +9,7 @@
 - Passive components Capacitor, Inductors
 - Analogue and Digital electronics
 - Active Components diodes, transistors and IC's
-
+- Arduino with Scratch (one of the suggested scratch programs was more programming an aeduino rather than a command receiver)
+ - LED on/off and blinking
+ - Tri-colour led change colours in time to some music?
+ - Stepper Motors
