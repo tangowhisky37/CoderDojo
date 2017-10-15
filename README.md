@@ -111,11 +111,6 @@ Parent's looking for links to maker projects (software projects, hardware or ele
 * [Getting started with Scratch on the Raspberry Pi](https://www.raspberrypi.org/documentation/usage/scratch/)
 * [Experimental Extensions for Scratch - Arduino, BBC Microbit, etc.](http://scratchx.org/)
 * [Scratch GPIO](http://simplesi.net/scratchgpio/)
-* [Code Club Projects @ CodeClubProjects.org](https://codeclubprojects.org/en-GB/) or
-* [Code Club Projects @ Projects.RaspberryPi.org](https://projects.raspberrypi.org/en/codeclub)
-* [Robo Mind Academy](http://www.robomindacademy.com)
-* [Code Combat](http://www.codecombat.com)
-* [SonicPi](http://sonic-pi.net/)
 * [RaspberryPi Digital Maker Curriculum for kids](https://curriculum.raspberrypi.org/)
 * [Raspberry Pi Learning Resources for kids](https://www.raspberrypi.org/resources/)
 * [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects)
@@ -136,6 +131,29 @@ Here's a list of block based programming languages other than Scratch -
 * [Snap4Arduino](https://github.com/bromagosa/Snap4Arduino)
 * [Edublocks](http://edublocks.org/)
 * [GPBlocks](https://gpblocks.org/)
+
+Here's a list of websites/activities you could use to conduct coding sessions for kids - 
+* [Code.org - Hour of Code](https://code.org/hourofcode/overview)
+* [Code.org - Hour of Code / MineCraft](https://code.org/minecraft)
+* [Code.org - Hour of Code / StarWare](https://code.org/starwars)
+* [Code.org - Hour of Code / Frozen](https://studio.code.org/s/frozen/reset)
+* [Code.org - Hour of Code / Athletes](https://code.org/athletes)
+* [Code.org - Hour of Code / Flappy Code](https://studio.code.org/s/flappy/reset)
+* [Code.org - Hour of Code / Infinity Play Lab](https://studio.code.org/s/infinity/reset)
+* [Code.org - Hour of Code / Play Lab](https://code.org/playlab)
+* [Code.org - Hour of Code / Artist](https://studio.code.org/s/artist/reset)
+* [Code.org - Hour of Code / Text Compression](https://studio.code.org/s/text-compression/reset)
+* [Code.org - Hour of Code / Conditionals](https://code.org/hourofcode/unplugged-conditionals-with-cards)
+* [Code.org - Hour of Code / Frozen]()
+* [Code Club Projects @ CodeClubProjects.org](https://codeclubprojects.org/en-GB/) or
+* [Code Club Projects @ Projects.RaspberryPi.org](https://projects.raspberrypi.org/en/codeclub)
+* [Robo Mind Academy - Hour Of Code](https://www.robomindacademy.com/go/navigator/coursedetails?course=HourOfCode)
+* [Monster Coding - Hour Of Code](http://monstercoding.com/#hour_of_code_en)
+* [Tynker - Hour Of Code](https://www.tynker.com/hour-of-code/)
+* [Code Monkey - Hour Of Code](https://www.playcodemonkey.com/hour-of-code)
+* [Code Combat](http://www.codecombat.com)
+* [Code Avengers](https://www.codeavengers.com/)
+* [SonicPi](http://sonic-pi.net/)
 
 
 ### Purchasing Electronics, Arduino's, Rapberry Pi's Online -
