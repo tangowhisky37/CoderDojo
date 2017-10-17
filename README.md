@@ -84,13 +84,25 @@ Please register your child using the following link -
 
 - Please head over to [https://www.schoology.com/](http://schoology.com/) and create a new account
 - Please select the "Student" option when creating a new account
-- Please use the following Course Code, VV268-4D7FF which will give you access to the first term of programming with Scratch.
+- Please use the following Course Code, VV268-4D7FF which will give you access to the first term of programming with Scratch. 
 
 As you progress through the program your child will be asssed and assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
 
 Please note that you will not be able to access all the tutorials for each of the classes unless you've signed up to the Learning Management System.
 
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
+
+## How Do I Sign up to Code Monkey
+
+We use Code Monkey for some of the tutorials. When requested please use the information in this section to sign up.
+
+Head over to [Code Monkey](https://www.playcodemonkey.com/) and sign up as a student. When asked for a classroom code use - w33rv.
+
+## How Do I Sign Up with Code Combat
+
+We use Code Combat for some of the tutorials. When requested please use the information in this section to sign up.
+
+Head over to [CodeCombat](https://codecombat.com/) and sign up as a student. Use the following classroom code - WatchKeySheep. 
 
 ## Can I Volunteer & Inspire 
 
