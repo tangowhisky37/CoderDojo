@@ -101,6 +101,11 @@ We use Code Monkey for some of the tutorials. When requested please use the info
 
 Head over to [Code Monkey](https://www.playcodemonkey.com/) and sign up as a student. When asked for a classroom code use - w33rv.
 
+Here's links to a few videos that talk about what Code Monkey has to offer.
+
+- Introduction to Code Monkey - [Link](https://youtu.be/2tOrwsFCbHo)
+- Code Monkey videos and tutorials - [Link](https://www.youtube.com/channel/UC1JLRsmlny2Sy9pGClYbFqg)
+
 ## How Do I Sign Up with Code Combat
 
 We use Code Combat for some of the tutorials. When requested please use the information in this section to sign up.
