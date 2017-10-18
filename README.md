@@ -84,11 +84,14 @@ Please register your child using the following link -
 
 - Please head over to [https://www.schoology.com/](http://schoology.com/) and create a new account
 - Please select the "Student" option when creating a new account
+- Please select "Altona North Coder Dojo" when asked for a school
 - Please use the following Course Code, VV268-4D7FF which will give you access to the first term of programming with Scratch. 
 
 As you progress through the program your child will be asssed and assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
 
 Please note that you will not be able to access all the tutorials for each of the classes unless you've signed up to the Learning Management System.
+
+After you've created the account and are logging in, you might be asked for the school name. Please enter the same school you used at registration i.e. "Altona North Coder Dojo".
 
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
