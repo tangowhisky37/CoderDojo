@@ -75,6 +75,8 @@ To book at seat at the CoderDojo please visit [CoderDojo Altona North Booking Pa
 
 Seats are limited, so please make sure you have reserved a seat for the session. 
 
+** Most of our sessions are now waitlisted. If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted.**
+
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
 ## How Do I Register With the Learning Management System 
