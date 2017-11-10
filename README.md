@@ -7,12 +7,13 @@ Welcome to CoderDojo Altona North. At this page you will find all the informatio
 
 We'll use this section for updates. 
 
-- 040917 : Working on getting the word out there. Web presence launched. Looking for a place to host our Dojo.
-- 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
-- 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
-- 230917 : Learning Management System setup. 4 Scratch programming courses setup. 
-- 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please volunteering section below.
+- 071117 : Registrations for Semester 4 are now closed. Registration for Semester 1 2018 will open soon.
 - 091017 : Change in hours - Weekly sessions for Term 4 being run on Sunday at 1000 Hrs AEST at Williamstown Community Library. 
+- 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please volunteering section below.
+- 230917 : Learning Management System setup. 4 Scratch programming courses setup. 
+- 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
+- 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
+- 040917 : Working on getting the word out there. Web presence launched. Looking for a place to host our Dojo.
 
 ## What Is A CoderDojo
 
@@ -73,6 +74,8 @@ If you have any questions please drop us an email at altona-north-dojo at practi
 To book at seat at the CoderDojo please visit [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
 
 Seats are limited, so please make sure you have reserved a seat for the session. 
+
+**Most of our sessions are now waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted**.
 
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
