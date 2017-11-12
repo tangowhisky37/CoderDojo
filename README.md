@@ -3,6 +3,8 @@
 
 Welcome to CoderDojo Altona North. At this page you will find all the information required to sign-up to CoderDojo Altona North including helpful links to getting your kids started on the path to becoming a maker!!!
 
+![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
+
 ## News & Updates 
 
 We'll use this section for updates. 
