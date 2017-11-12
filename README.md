@@ -80,7 +80,7 @@ Seats are limited, so please make sure you have reserved a seat for the session.
 
 **Most of our sessions are now waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted**.
 
-We recommend parents to register interest using the form provided especially if they haven't been able to secure a place for the current term. Based on the wait list we'll allocate places for the next term. 
+We recommend parents register interest using the form provided. You should register initerest even if you haven't been able to secure a place for the current term. Based on the numbers in the wait list we'll allocate places for the next term. 
 
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
