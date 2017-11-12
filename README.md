@@ -71,11 +71,16 @@ If you have any questions please drop us an email at altona-north-dojo at practi
 
 ## Howto Book A Seat
 
-To book at seat at the CoderDojo please visit [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
+This is a two step process. 
+
+* Please register interest using the following form - [Link](https://goo.gl/forms/43G3lHd4SyxbPF9i1)
+* Head over to the events page and book a seat - [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
 
 Seats are limited, so please make sure you have reserved a seat for the session. 
 
 **Most of our sessions are now waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted**.
+
+We recommend parents to register interest using the form provided especially if they haven't been able to secure a place for the current term. Based on the wait list we'll allocate places for the next term. 
 
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
