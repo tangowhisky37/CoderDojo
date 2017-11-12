@@ -138,6 +138,8 @@ If this sounds like something you’d love to do, then what are you waiting for!
 
 Parent's looking for links to maker projects (software projects, hardware or electronics projects, etc.) aimed at kids including tools that they could use can consider the links below -
 
+* [Scratch](http://scratch.mit.edu)
+* [ScratchJr](http://scratchjr.org/)
 * [Getting started with Scratch on the Raspberry Pi](https://www.raspberrypi.org/documentation/usage/scratch/)
 * [Experimental Extensions for Scratch - Arduino, BBC Microbit, etc.](http://scratchx.org/)
 * [Scratch GPIO](http://simplesi.net/scratchgpio/)
