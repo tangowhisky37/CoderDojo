@@ -3,13 +3,15 @@
 
 Welcome to CoderDojo Altona North. At this page you will find all the information required to sign-up to CoderDojo Altona North including helpful links to getting your kids started on the path to becoming a maker!!!
 
+![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
+
 ## News & Updates 
 
 We'll use this section for updates. 
 
 - 071117 : Registrations for Semester 4 are now closed. Registration for Semester 1 2018 will open soon.
 - 091017 : Change in hours - Weekly sessions for Term 4 being run on Sunday at 1000 Hrs AEST at Williamstown Community Library. 
-- 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please volunteering section below.
+- 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please see volunteering section below.
 - 230917 : Learning Management System setup. 4 Scratch programming courses setup. 
 - 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
 - 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
@@ -71,11 +73,16 @@ If you have any questions please drop us an email at altona-north-dojo at practi
 
 ## Howto Book A Seat
 
-To book at seat at the CoderDojo please visit [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
+This is a two step process. 
+
+* Please register interest using the following form - [Link](https://goo.gl/forms/43G3lHd4SyxbPF9i1)
+* Head over to the events page and book a seat - [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
 
 Seats are limited, so please make sure you have reserved a seat for the session. 
 
 **Most of our sessions are now waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted**.
+
+We recommend parents register interest using the form provided. You should register initerest even if you haven't been able to secure a place for the current term. Based on the numbers in the wait list we'll allocate places for the next term. 
 
 If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
 
@@ -131,6 +138,8 @@ If this sounds like something you’d love to do, then what are you waiting for!
 
 Parent's looking for links to maker projects (software projects, hardware or electronics projects, etc.) aimed at kids including tools that they could use can consider the links below -
 
+* [Scratch](http://scratch.mit.edu)
+* [ScratchJr](http://scratchjr.org/)
 * [Getting started with Scratch on the Raspberry Pi](https://www.raspberrypi.org/documentation/usage/scratch/)
 * [Experimental Extensions for Scratch - Arduino, BBC Microbit, etc.](http://scratchx.org/)
 * [Scratch GPIO](http://simplesi.net/scratchgpio/)
