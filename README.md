@@ -1,11 +1,13 @@
 
-# CoderDojo Altona North
+# CoderDojo Altona North 
 
 Welcome to CoderDojo Altona North (Melbourne, Australia). Altona North is a suburb of Melbourne, Victoria, Australia, 10 km south-west of Melbourne's Central Business District, located within the City of Hobsons Bay local government area. You can read more about us on [Wikipedia](https://en.wikipedia.org/wiki/Altona_North,_Victoria).
 
 At this page you will find all the information required to sign-up to CoderDojo Altona North (Melbourne, Australia) including helpful links to getting your kids started on the path to becoming a maker!!!
 
 ![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
+
+The official link to the website is [altonanorthdojo.com](https://altonanorthdojo.com).
 
 ## News & Updates 
 
