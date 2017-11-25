@@ -7,7 +7,7 @@ At this page you will find all the information required to sign-up to CoderDojo 
 
 ![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
 
-The official link to the website is [altonanorthdojo.com](https://altonanorthdojo.com).
+The official link to the website is [altonanorthdojo.com](http://altonanorthdojo.com).
 
 ## News & Updates 
 
