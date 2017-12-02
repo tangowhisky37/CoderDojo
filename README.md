@@ -161,6 +161,9 @@ Parent's looking for links to maker projects (software projects, hardware or ele
 * [Raspberry Pi Education Manual](http://pi.cs.man.ac.uk/download/Raspberry_Pi_Education_Manual.pdf)
 * [Making Science With Google](https://makingscience.withgoogle.com/?lang=en)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
+* [Learn Python](https://www.learnpython.org/)
+* [Learn HTML](https://www.learn-html.org/)
+* [Learn PHP](https://www.learn-php.org/)
 
 Here's a list of block based programming languages other than Scratch - 
 
