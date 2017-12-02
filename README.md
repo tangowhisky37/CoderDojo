@@ -13,6 +13,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 We'll use this section for updates. 
 
+- 031217 : Last class for Term 4 2017 is on the 17th of December 2017. 
 - 071117 : Registrations for Semester 4 are now closed. Registration for Semester 1 2018 will open soon.
 - 091017 : Change in hours - Weekly sessions for Term 4 being run on Sunday at 1000 Hrs AEST at Williamstown Community Library. 
 - 041017 : Weekly (Sunday morning) sessions being run out of Williamstown (Hobsons Bay) Library. Interested volunteers please see volunteering section below.
@@ -159,6 +160,7 @@ Parent's looking for links to maker projects (software projects, hardware or ele
 * [CamJam Edu Kit](http://camjam.me/?page_id=236)
 * [Raspberry Pi Education Manual](http://pi.cs.man.ac.uk/download/Raspberry_Pi_Education_Manual.pdf)
 * [Making Science With Google](https://makingscience.withgoogle.com/?lang=en)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 
 Here's a list of block based programming languages other than Scratch - 
 
