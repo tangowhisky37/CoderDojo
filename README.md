@@ -48,14 +48,18 @@ Please make sure you have obtained a ticket (FREE) using the links below and als
 
 The following courses are available at Coder Dojo Altona North. Please note that not all courses are on offer for every semester. 
 
+- ScratchJr - Playful Learning (5-6 year olds)
 - Scratch 101 - MIT Tutorials
-- Scratch Fundamentals I - CodeClub Tutorials 
-- Scratch Fundamentals II - CodeClub Tutorials
-- Advanced Scratch - CodeClub Tutorials
-- Electronics 101 through Arduino
-- Website Programming 101 (HTML, Javascript)
-- Python 101 - CodeCombat
+- Term I Scratch Fundamentals - CodeClub Tutorials 
+- Term II Scratch Fundamentals - CodeClub Tutorials
+- Term III Advanced Scratch - CodeClub Tutorials
+- Developing Games In Scratch
+- Electronics 101 (Arduino based) 
+- Fundamentals Of Website Programming (HTML, Javascript)
+- Python 101 through CodeCombat (Parent's need to purchase a subscription)
 - Python Fundamentals - CodeClub Tutorials
+- CoffeeScript 101 through CodeMonkey (Parent's need to purchase a subscription)
+- Programming with Minecraft (Planned)
 
 Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. 
 
