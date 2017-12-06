@@ -157,6 +157,7 @@ Parent's looking for links to maker projects (software projects, hardware or ele
   * [BBC Microbit - Touch Develop Tutorials](https://www.microbit.co.uk/td/contents)
   * [BBC Microbit - Code Kingdom Tutorials](https://www.microbit.co.uk/ck)
   * [Introduction to Computer Science using BBC Mirobit](https://makecode.microbit.org/courses/csintro)
+  * [BB Microbit - CodeClub Tutorials](https://codeclubprojects.org/en-GB/microbit/)
   * [Projects @ Microbit.org](https://microbit.org/en/2017-03-07-javascript-block-resources/)
   * [Kitronik University](https://www.kitronik.co.uk/blog/bbc-microbit-kitronik-university/)
   * [Kitronik Inventors Kit](https://www.kitronik.co.uk/blog/inventors-kit-experiment-1-help)
