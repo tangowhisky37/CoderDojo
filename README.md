@@ -25,7 +25,7 @@ We'll use this section for updates.
 
 ## Class Pictures 
 
-- [Term 4 2017](http://tangowhisky37.github.io/Images/coderdojo_term4_2017.jpg)
+- [Term 4 2017](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term4_2017.jpg)
 
 ## What Is A CoderDojo
 
