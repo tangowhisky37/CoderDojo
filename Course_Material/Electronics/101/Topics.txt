@@ -1,15 +1,55 @@
 
 ## Topics - Electronics 101
 
+Substitute the BBC µBit with the inventors kit for the Arduino
+A modified plate for the car enables mounting the inventor kit on the car base.
+
+Lesson plans should link to BBC or related content. Making something from little things around the house like cardbaord, alfoil helps link the programming to the outcome.
+
+Aliexpress has the devices we are seeking, but take about 30-40 days to arrive (cheapest cost per unit), some have free shipping, some don't.
+
 - Conductors and Insulators (there is a conductive ink pen which leads to interesting application of pen and paper)
 - Current and Voltage - explained using water pressure/flow to visualise what is happening - stick with Direct Current
-- Passive components Resistors - simple circuits, voltage and current experiments - basic Ohms law
-- Batteries and energy storage
-- Magnetism and Electricity (suggested experiments with simple electromagnets)
-- Passive components Capacitor, Inductors
-- Analogue and Digital electronics
-- Active Components diodes, transistors and IC's
-- Arduino with Scratch (one of the suggested scratch programs was more programming an aeduino rather than a command receiver)
- - LED on/off and blinking
- - Tri-colour led change colours in time to some music?
- - Stepper Motors
+
+Phase 1
+
+Programming the internal devices
+
+    Leds
+    Scrolling messages
+    buttons
+    Temperature (Display)
+    Accelerometer
+    Compass
+    Radio/Bluetooth
+
+Phase 1 Projects
+
+    Display the temperature on a 'thermometer' bargraph
+    µPython Pet
+    Rock Paper Scissors
+    Multiplayer Rock Paper Scissors
+
+Phase 2
+
+Programming and external electronics
+
+    Speaker Speech and Music
+    Temperature
+    Variable Resistor
+    Motor
+    Accelerometer
+
+Phase 2 Projects
+
+    Milk Carton Robot? extra item required (servo)
+    Dalek Speech High Impedance or piezo suggested
+    Guitar Project
+
+Phase 3 Robot Car
+
+    Line Follower
+    Remote Control Car (Mobile App)
+    Make car spin on the spot (commanded by the participant)
+    Make car speed variable
+    Add sonic sensor for car to sense distance to object
