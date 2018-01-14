@@ -11,7 +11,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 ## News & Updates 
 
-We'll use this section for updates. 
+See all relevant news and updates here...... 
 
 - 140118 : Enrollments for Term 1 2018 in the process of being confirmed. Sessions scheduled to begin weekend of the 27th of Jan 2018. 
 - 171217 : Wrapped up term 4 2017 with our christmas party. Bookings open for Term 1 2018. See "Howto Book A Seat Section" below.
