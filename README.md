@@ -7,12 +7,13 @@ At this page you will find all the information required to sign-up to CoderDojo 
 
 ![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
 
-The official link to the website is [altonanorthdojo.com](http://altonanorthdojo.com).
+The official link to the website is [altonanorthdojo.com](http://altonanorthdojo.com). 
 
 ## News & Updates 
 
 We'll use this section for updates. 
 
+- 171217 : Wrapped up term 4 2017 with our christmas party. Bookings open for Term 1 2018. See "Howto Book A Seat Section" below.
 - 031217 : Last class for Term 4 2017 is on the 17th of December 2017. 
 - 071117 : Registrations for Semester 4 are now closed. Registration for Semester 1 2018 will open soon.
 - 091017 : Change in hours - Weekly sessions for Term 4 being run on Sunday at 1000 Hrs AEST at Williamstown Community Library. 
@@ -21,6 +22,10 @@ We'll use this section for updates.
 - 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
 - 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
 - 040917 : Working on getting the word out there. Web presence launched. Looking for a place to host our Dojo.
+
+## Class Pictures 
+
+- [Term 4 2017](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term4_2017.jpg)
 
 ## What Is A CoderDojo
 
@@ -35,7 +40,8 @@ We might consider folowing a syllabus where it makes sense, especially with our 
 - Coding in Scratch
 - Python developing on the Raspberry Pi
 - Minecraft development
-- Inteacting with sensors and Arduino
+- Inteacting with sensors using Arduino
+- Inteacting with sensors using the BBC Micro:Bit
 - Interacting with sensors and RaspberryPi 
 - Coding in HTML & CSS (websites)
 - Development of simple mobile apps
@@ -54,7 +60,7 @@ The following courses are available at Coder Dojo Altona North. Please note that
 - Term II Scratch Fundamentals - CodeClub Tutorials
 - Term III Advanced Scratch - CodeClub Tutorials
 - Developing Games In Scratch
-- Electronics 101 (Arduino based) 
+- Electronics 101 (BBC Miro:bit, Arduino, Raspberry Pi based) 
 - Fundamentals Of Website Programming (HTML, Javascript)
 - Python 101 through CodeCombat (Parent's need to purchase a subscription)
 - Python Fundamentals - CodeClub Tutorials
