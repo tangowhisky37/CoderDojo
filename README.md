@@ -13,6 +13,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 We'll use this section for updates. 
 
+- 140118 : Enrollments for Term 1 2018 in the process of being confirmed. Sessions scheduled to begin weekend of the 27th of Jan 2018. 
 - 171217 : Wrapped up term 4 2017 with our christmas party. Bookings open for Term 1 2018. See "Howto Book A Seat Section" below.
 - 031217 : Last class for Term 4 2017 is on the 17th of December 2017. 
 - 071117 : Registrations for Semester 4 are now closed. Registration for Semester 1 2018 will open soon.
@@ -149,7 +150,32 @@ Finally, we don’t expect our volunteer mentors to attend each and every sessio
 
 If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at volunteer-at-coderdojo at practicalperformanceanalyst dot com and let's get the next generation of kids hacking. 
 
-### Links To Maker Projects & Tools For Kids
+## Bill Of Material
+
+Certain courses require investment in hardware kits. While we have provided a link to the kits from a particular store you are free to pick up the components from any store of your choice or even re-use an existing part/component/board if you have a spare one lying around at home. We have no affialiation with any of the vendors listed on this page and any transaction you perform is between you and the vendor....be rest assured. 
+
+This section lists of the BOM (Bill Of Material) for the relevant courses. 
+
+* Course - Electronics 101 using the BBC micro:bit
+  * BBC micro:bit Go Pack (This includes the board, USB cable, battery pack) - [Tronixlabs](https://tronixlabs.com.au/bbc-micro-bit/bbc-micro-bit-go-pack-australia/)
+  * BBC micro:bit Inventors Kit by Kitronik - [Tronixlabs](https://tronixlabs.com.au/bbc-micro-bit/inventors-kit-for-bbc-micro-bit-australia/)
+
+* Course - Robot car using the BBC micro:bit 
+  * M3 12mm Nylon Screws x 6 : (store link to be provided)
+  * M3 30mm Nylon Spacer (Female - Female) x 3 : (store link to be provided)
+  * M3 30mm Metal Screws x 2 : (store link to be provided)
+  * M3 Hex Metal Nuts x 2 : (store link to be provided)
+  * DRV8833 H Bridge x 1 : (store link to be provided)
+  * Wheels x 2 : (store link to be provided)
+  * Motors x 2 : (store link to be provided)
+  * Castor Ball CY-15A x 2 : (store link to be provided)
+  * Car plate and mounts x 1 : (store link to be provided)
+  * 2 Way PCB Mount Screw Terminal - 5mm Pitch Pin x 5 : (store link to be provided)
+  * HC-SR04 Ultrasonic Module x 1 : (store link to be provided)
+
+If you have any questions with regards to any of the parts listed on this page please speak to the volunteers at the Dojo before you head off and purchase the relevant part. 
+
+## Links To Maker Projects & Tools For Kids
 
 Parent's looking for links to maker projects (software projects, hardware or electronics projects, etc.) aimed at kids including tools that they could use can consider the links below -
 
@@ -216,7 +242,7 @@ Here's a list of websites/activities you could use to conduct coding sessions fo
 * [SonicPi](http://sonic-pi.net/)
 
 
-### Purchasing Electronics, Arduino's, Rapberry Pi's Online -
+## Purchasing Electronics, Arduino's, Rapberry Pi's Online -
 
 Here's some of the website we've used. There's no recommended websites or vendors as such. You should review the list below and see who's offering you the best deal.
 
@@ -233,7 +259,7 @@ Here's some of the website we've used. There's no recommended websites or vendor
 * [Digikey](https://www.digikey.com.au/)
 
 
-### Important Links -
+## Important Links -
 
 * [CoderDojo](https://coderdojo.com/)
 * [Code Club](https://codeclubprojects.org/en-GB/)
