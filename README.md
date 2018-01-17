@@ -13,6 +13,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 See all relevant news and updates here...... 
 
+- 170118 : Enrollments for Term 1 2018 are now closed. Please fill up the registering interest form (See How to book a seat section) and reach us at dojo@hack2.live to be put on the waiting list. 
 - 140118 : Enrollments for Term 1 2018 in the process of being confirmed. Sessions scheduled to begin weekend of the 27th of Jan 2018. 
 - 171217 : Wrapped up term 4 2017 with our christmas party. Bookings open for Term 1 2018. See "Howto Book A Seat Section" below.
 - 031217 : Last class for Term 4 2017 is on the 17th of December 2017. 
