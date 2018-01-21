@@ -7,7 +7,7 @@ At this page you will find all the information required to sign-up to CoderDojo 
 
 ![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
 
-The official link to the website is [altonanorthdojo.com](http://altonanorthdojo.com). 
+The official link to the website is [altonanorthdojo.com](http://altonanorthdojo.com). You can reach us on email at dojo@hack2.live. 
 
 ## News & Updates 
 
@@ -73,7 +73,7 @@ Parents are requested to check with the team to confirm which course is being of
 
 ## Who Runs The CoderDojo
 
-CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at altona-north-dojo at practicalperformanceanalyst dot com. 
+CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at dojo@hack2.live. 
 
 ## What Do I Need To Bring Along
 
@@ -86,7 +86,7 @@ Please bring along the following items -
 
 So come join us, have fun and share in the learning. Let's Ignite the flame of learning, let's inspire the maker in you and let's get creating!!!!
 
-If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
+If you have any questions please drop us an email at dojo@hack2.live. 
 
 ## Howto Book A Seat
 
@@ -101,7 +101,7 @@ Seats are limited, so please make sure you have reserved a seat for the session.
 
 We recommend parents register interest using the form provided. You should register initerest even if you haven't been able to secure a place for the current term. Based on the numbers in the wait list we'll allocate places for the next term. 
 
-If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
+If you have any questions please drop us an email at dojo@hack2.live. 
 
 ## How Do I Register With the Learning Management System 
 
@@ -120,7 +120,7 @@ Please note that you will not be able to access all the tutorials for each of th
 
 After you've created the account and are logging in, you might be asked for the school name. Please enter the same school you used at registration i.e. "Altona North Coder Dojo".
 
-If you have any questions please drop us an email at altona-north-dojo at practical performance analyst dot com. 
+If you have any questions please drop us an email at dojo@hack2.live. 
 
 ## How Do I Sign up to Code Monkey
 
@@ -149,7 +149,7 @@ You’ll need a [Working With Children Check](http://www.workingwithchildren.vic
 
 Finally, we don’t expect our volunteer mentors to attend each and every session. All we ask for is a few hours of your time each week when the dojo is running. If you can’t make a session, then that’s no problem! We’re operate a fun, relaxed, and flexible model for our awesome mentors! 
 
-If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at volunteer-at-coderdojo at practicalperformanceanalyst dot com and let's get the next generation of kids hacking. 
+If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at volunteer@hack2.live and let's get the next generation of kids hacking. 
 
 ## Bill Of Material
 
