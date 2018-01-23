@@ -1,0 +1,30 @@
+
+Here's the codes to use when registering for a course - 
+
+Microbit courses below - 
+
+* BBC Microbit Fundamentals I - WXS44-FNSH7
+* BBC Microbit Fundamentals II - B4VF2-M4W65
+* BBC Microbit Making & Creating - 4Z8JF-GB532
+* Fundamentals of Electronics using the BBC Microbit - 3CSDP-6F2ZQ
+
+Misc courses below - 
+
+* Code Combat - Introduction To Computer Science 1 - JJQKR-TCTDS
+* Fundamentals of Web Development - STD9C-S56MJ
+* Programming with Minecraft (Needs more work, not complete) - 8PDF5-3Z2PF
+
+Python courses below - 
+
+* Python for Kids - ZJSKV-2J4GC
+* Python fundamentals - PDFBC-RPPH9
+* Python on the BBC Microbit - NMVX4-XFT5W
+
+Scratch courses below - 
+
+* Scratch 101 - VV268-4D7FF
+* Scratch Term 1 : Fundamentals - G2T2B-CM9PX
+* Scratch Term 2 : Advanced - SNGNT-FTM67
+* Scratch Term 3 : Advanced - 9CZMB-XNQWH
+* Scratch Junior : Playful Learning - HZKH9-K357B
+* Developing Games In Scratch - T867K-3GH42	
