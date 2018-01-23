@@ -56,20 +56,33 @@ Please make sure you have obtained a ticket (FREE) using the links below and als
 
 ## What Are The Courses Offered
 
-The following courses are available at Coder Dojo Altona North. Please note that not all courses are on offer for every semester. 
+The following courses are available at Coder Dojo Altona North. Please note that not all courses might be on offer every semester. 
 
-- ScratchJr - Playful Learning (5-6 year olds)
-- Scratch 101 - MIT Tutorials
-- Term I Scratch Fundamentals - CodeClub Tutorials 
-- Term II Scratch Fundamentals - CodeClub Tutorials
-- Term III Advanced Scratch - CodeClub Tutorials
-- Developing Games In Scratch
-- Electronics 101 (BBC Miro:bit, Arduino, Raspberry Pi based) 
-- Fundamentals Of Website Programming (HTML, Javascript)
-- Python 101 through CodeCombat (Parent's need to purchase a subscription)
-- Python Fundamentals - CodeClub Tutorials
-- CoffeeScript 101 through CodeMonkey (Parent's need to purchase a subscription)
-- Programming with Minecraft (Planned)
+* Microbit fundamentals -  
+  * BBC Microbit Fundamentals I
+  * BBC Microbit Fundamentals II
+  * BBC Microbit Making & Creating
+* Electronics 101 -
+  * Introduction to electronics using the BBC Microbit
+  * Introduction to electronics using the Raspberry Pi (Planned)
+  * Introduction to electronics using the Arduino (Planned)
+* Web development fundamentals -
+  * Fundamentals of Web Development
+* Python fundamentals - 
+  * Python for Kids
+  * Python fundamentals
+  * Python on the BBC Microbit
+* Scratch fundamentals & advanced courses - 
+  * Scratch 101
+  * Scratch Term 1 : Fundamentals
+  * Scratch Term 2 : Advanced
+  * Scratch Term 3 : Advanced
+  * Scratch Junior : Playful Learning (5-6 year olds)
+  * Developing Games In Scratch
+* Miscellaneous - 
+  * Code Monkey - Introduction to Coffeescript 
+  * Code Combat - Introduction To Computer Science
+  * Programming with Minecraft (Planned)
 
 Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. 
 
