@@ -129,9 +129,9 @@ Please register your child using the following link -
 - Please select "Altona North Coder Dojo" when asked for a school
 - Please use the following Course Code, VV268-4D7FF which will give you access to the first term of programming with Scratch. 
 
-As you progress through the program your child will be asssed and assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
+Through the term your childs progress will be asssed and you child will be assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
 
-Please note that you will not be able to access all the tutorials for each of the classes unless you've signed up to the Learning Management System.
+Please note that you will not be able to access any of the tutorials for Coder Dojo sessions unless you've signed up to the Learning Management System. There is a lot of content that's only made avaialable through the LMS so please hop on board, you'll be using that at almost every class. 
 
 After you've created the account and are logging in, you might be asked for the school name. Please enter the same school you used at registration i.e. "Altona North Coder Dojo".
 
