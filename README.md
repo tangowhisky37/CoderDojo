@@ -225,6 +225,7 @@ Parent's looking for links to maker projects (software projects, hardware or ele
 * [Learn Python](https://www.learnpython.org/)
 * [Learn HTML](https://www.learn-html.org/)
 * [Learn PHP](https://www.learn-php.org/)
+* [Google CS First](https://csfirst.withgoogle.com/en/home)
 
 Here's a list of block based programming languages other than Scratch - 
 
