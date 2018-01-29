@@ -137,22 +137,40 @@ After you've created the account and are logging in, you might be asked for the 
 
 If you have any questions please drop us an email at dojo@hack2.live. 
 
-## How Do I Sign up to Code Monkey
+## Class Activity - Signing up to Code Monkey
 
-We use Code Monkey for some of the tutorials. When requested please use the information in this section to sign up.
+At CoderDojo Altona North we will also be using Code Monkey for some of the tutorials. When requested please use the information in this section to sign up.
 
-Head over to [Code Monkey](https://www.playcodemonkey.com/) and sign up as a student. When asked for a classroom code use - w33rv.
+Head over to [Code Monkey](https://www.playcodemonkey.com/) and sign up as a student. When asked for a classroom code use - phaj3. If you are having trouble signing up please use the [Hour Of Code](https://www.playcodemonkey.com/blog/hour-of-code/coding-adventure/) link.
 
 Here's links to a few videos that talk about what Code Monkey has to offer.
 
 - Introduction to Code Monkey - [Link](https://youtu.be/2tOrwsFCbHo)
 - Code Monkey videos and tutorials - [Link](https://www.youtube.com/channel/UC1JLRsmlny2Sy9pGClYbFqg)
 
-## How Do I Sign Up with Code Combat
+Code Monkey has many other courses and learning plans to offer. You are free to sign up to the commercial version to get access to rest of the learning plans not available to free users.  
 
-We use Code Combat for some of the tutorials. When requested please use the information in this section to sign up.
+## Class Activity - Signing up to Code Combat
+
+At CoderDojo Altona North we will also be using CodeCombat for some of the tutorials. When requested please use the information in this section to sign up.
 
 Head over to [CodeCombat](https://codecombat.com/) and sign up as a student. Use the following classroom code - WatchKeySheep. 
+
+Also on offer is the CodeCombat Hour Of Code which you can access here - [CodeCombat - Build Your Own Game](https://hourofcode.com/cocomgame).
+
+CodeCombat has many other courses and learning plans to offer. You are free to sign up to the commercial version to get access to rest of the learning plans not available to free users.  
+
+## Class Activity - Signing up to Tynker
+
+At CoderDojo Altona North we will also be using Tynker for some of our tutorials. When requested please use the information provided here to signup.
+
+Head over to Tynker and sign up as a student. We have three courses on offer, please choose the relevant course code.
+
+* Hour Of Code -  28904647 
+* Elementary School Starter Course - 74556950 
+* Middle School Starter Course - 73390051 
+
+Tynker has many other courses and learning plans to offer. You are free to sign up to the commercial version to get access to rest of the learning plans not available to free users.  
 
 ## Can I Volunteer & Inspire 
 
