@@ -15,6 +15,8 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 See all relevant news and updates here...... 
 
+- 020218 : Parents interested in starting next term i.e. Term 2 2018, should fill in the "Register Interest" form in the "How To Book A Seat Section" below. 
+- 270118 : Classes for Term 1 2018 have begun. Thanks to Hobsons Bay Council, we will be running our classes at the Altona North Community Library - 1000 Hrs AEST on Sat. Only those with confirmed enrollments can attend. 
 - 170118 : Enrollments for Term 1 2018 are now closed. Please fill up the registering interest form (See How to book a seat section) and reach us at dojo@hack2.live to be put on the waiting list. 
 - 140118 : Enrollments for Term 1 2018 in the process of being confirmed. Sessions scheduled to begin weekend of the 27th of Jan 2018. 
 - 171217 : Wrapped up term 4 2017 with our christmas party. Bookings open for Term 1 2018. See "Howto Book A Seat Section" below.
@@ -26,6 +28,8 @@ See all relevant news and updates here......
 - 190917 : Location confirmed. Kicking off first session on the 24th of Sep.
 - 100917 : Looking to build team of mentors, volunteers. Working on confirming location for Dojo. Bookings open, limited seats.
 - 040917 : Working on getting the word out there. Web presence launched. Looking for a place to host our Dojo.
+
+For any queries please drop us a note at dojo@hack2.live.
 
 ## Class Pictures 
 
