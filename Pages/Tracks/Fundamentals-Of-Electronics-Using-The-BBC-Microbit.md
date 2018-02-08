@@ -5,6 +5,10 @@ This section lists the content covered under the Electronics Fundamentals using 
 
 This course is designed to run through two entire terms (10-12 weeks each term) assuming that one lesson is worked upon at every class. 
 
+About the BBC micro:bit - The Micro Bit (also referred to as BBC Micro Bit, stylised as micro:bit) is an ARM-based embedded system designed by the BBC for use in computer education in the UK. The board is 4 cm × 5 cm and has an ARM Cortex-M0 processor, accelerometer and magnetometer sensors, Bluetooth and USB connectivity, a display consisting of 25 LEDs, two programmable buttons, and can be powered by either USB or an external battery pack. The device inputs and outputs are through five ring connectors that are part of the 23-pin edge connector at the bottom of the board. The micro:bit can be programmed using the Microsoft [Block code program editor](https://makecode.microbit.org) which is similar to the block based language Scratch ideal for 7-12 year olds. The micro:bit can also be programmed using the Makecode editor in Javascript and Python which allows for older kids to learn the Javascript and Python programming language using the micro:bit.
+
+This course provides an introduction to the basics of various electronics concepts through interacting and programming the bbc micro:bit. Some aspects of this course are complex and it is advised that the parent reads through the relevant tutorial before working with the child in class. The volunteer instructors/mentors will be around to guide and provide input. 
+
 - Lesson 1  : Series circuit
   - LED, Resistor
   - LED, Resistor + Resistor (Series)
