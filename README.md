@@ -67,38 +67,11 @@ To attend the sessions please see the "Howto Book A Seat" section below. Our ses
 
 ## What Are The Making / Creating Tracks On Offer
 
-The following courses are available at Coder Dojo Altona North. Please note that not all courses might be on offer every semester. 
+For details on the various learning tracks on offer at CoderDojo Altona North please visit - [Hacking & Making Tracks On Offer](https://tangowhisky37.github.io/CoderDojo/Pages/Hacking-Making-Tracks). 
 
-* Microbit fundamentals -  
-  * BBC Microbit Fundamentals I
-  * BBC Microbit Fundamentals II
-  * BBC Microbit Making & Creating
-* Electronics 101 -
-  * Introduction to electronics using the BBC Microbit
-  * Introduction to electronics using the Raspberry Pi (Planned)
-  * Introduction to electronics using the Arduino (Planned)
-* Web development fundamentals -
-  * Fundamentals of Web Development
-* Python fundamentals - 
-  * Python for Kids
-  * Python fundamentals
-  * Python on the BBC Microbit
-* Scratch fundamentals & advanced courses - 
-  * Scratch 101
-  * Scratch Term 1 : Fundamentals
-  * Scratch Term 2 : Advanced
-  * Scratch Term 3 : Advanced
-  * Scratch Junior : Playful Learning (5-6 year olds)
-  * Developing Games In Scratch
-* Code Ninjas - 
-  * Code Monkey - Introduction to Coffeescript 
-  * Code Combat - Introduction To Computer Science
-  * Programming with Minecraft (Planned)
-* Computer Science Fundamentals -
-  * Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum) 
-  * Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)
+Please note that not all courses might be on offer every semester. Parents are requested to check with the team to confirm which course is being offered. 
 
-Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System (Schoology). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
+Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System (Schoology). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 ## Who Runs The CoderDojo
 

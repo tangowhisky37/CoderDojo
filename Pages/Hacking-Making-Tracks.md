@@ -19,6 +19,8 @@ At a high level the focus areas for CoderDojo Altona North include -
 - Coding in HTML & CSS (websites)
 - Development of simple mobile apps
 
+The following sections offer more details on the content of each of the tracks. All questions, comments, input and feedback to dojo@hack2.live
+
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
 ## Tracks On Offer
@@ -28,33 +30,33 @@ CoderDojo Altona North operates slightly differently to most schools you would h
 The following courses are available at Coder Dojo Altona North. Please note that not all courses might be on offer every semester. So please do speak with the CoderDojo volunteers and mentors to confirm which tracks are on offer for a given term - 
 
 * Microbit fundamentals -
-  * BBC Microbit Fundamentals I
-  * BBC Microbit Fundamentals II
-  * BBC Microbit Making & Creating
+  * [BBC Microbit Fundamentals I](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/BBC-Microbit-Fundamentals-I)
+  * [BBC Microbit Fundamentals II](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/BBC-Microbit-Fundamentals-II)
+  * [BBC Microbit Making & Creating](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/BBC-Microbit-Fundamentals-III)
 * Electronics 101 -
-  * Introduction to electronics using the BBC Microbit
+  * [Introduction to electronics using the BBC Microbit](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Fundamentals-Of-Electronics-Using-The-BBC-Microbit)
   * Introduction to electronics using the Raspberry Pi (Planned)
   * Introduction to electronics using the Arduino (Planned)
 * Web development fundamentals -
-  * Fundamentals of Web Development
+  * [Fundamentals of Web Development](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Web-Development-Fundamentals)
 * Python fundamentals -
-  * Python for Kids
-  * Python fundamentals
-  * Python on the BBC Microbit
+  * [Python for Kids](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Python-For-Kids)
+  * [Python fundamentals](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Python-Fundamentals)
+  * [Python on the BBC Microbit](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Python-On-The-Microbit)
 * Introduction to Computer Science Fundamentals using Scratch -
-  * Scratch 101
-  * Scratch Term 1 : Fundamentals
-  * Scratch Term 2 : Advanced
-  * Scratch Term 3 : Advanced
-  * Scratch Junior : Playful Learning (5-6 year olds)
-  * Developing Games In Scratch
+  * [Scratch 101](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Scratch-101)
+  * [Scratch Term 1 : Fundamentals](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Scratch-Term-1-Fundamentals)
+  * [Scratch Term 2 : Fundamentals](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Scratch-Term-2-Fundamentals)
+  * [Scratch Term 3 : Advanced](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Scratch-Term-3-Fundamentals)
+  * [Scratch Junior : Playful Learning (5-6 year olds)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Scratch-Junior)
+  * [Developing Games In Scratch](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Scratch-Developing-Games)
 * Code Ninjas -
   * Code Monkey - Introduction to Coffeescript
   * Code Combat - Introduction To Computer Science
   * Programming with Minecraft (Planned)
 * Computer Science Fundamentals -
-  * Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum)
-  * Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)
+  * [Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Google-Computer-Science-First)
+  * [Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/MS-Computer-Science-Minecraft)
 
 Please click on each of the tracks to see details of the topics covered. 
 
