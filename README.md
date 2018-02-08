@@ -198,7 +198,7 @@ If you have any questions with regards to any of the parts listed on this page p
 
 ## Links To Maker Projects & Tools For Kids
 
-Head this way if you are looking for links to maker projects (tutorials, coding projects, hardware or electronics projects, etc.) aimed at kids - [Link](https://tangowhisky37.github.io/CoderDojo/Links-To-Maker-Projects-And-Tools-For-Kids)
+Head this way if you are looking for links to maker projects (tutorials, coding projects, hardware or electronics projects, etc.) aimed at kids - [Link](https://tangowhisky37.github.io/CoderDojo/Pages/Links-To-Maker-Projects-And-Tools-For-Kids)
 
 ## Purchasing Electronics, Arduino's, Rapberry Pi's Online -
 
