@@ -45,18 +45,25 @@ At CoderDojo Altona North our aim is to Ignite, Inspire and Create. We strongly 
 
 We might consider folowing a syllabus where it makes sense, especially with our young makers who are getting started. With the more experienced makers we will let the kids choose what they want to work on, and the mentors guide and help them along their journey of discovery into the world of technology. Some of the things we do at CoderDojo Altona North include:
 
-- Coding in Scratch
+- Introduction to Computer Science through - 
+  - Coding in Scratch 
+  - Google CS (Computer Science) First curriculum
+  - Microsoft Computer Science curriculum using Minecraft 
 - Python developing on the Raspberry Pi
-- Minecraft development
-- Inteacting with sensors using Arduino
-- Inteacting with sensors using the BBC Micro:Bit
-- Interacting with sensors and RaspberryPi 
+- Minecraft gaming & development
+- Electronics fundamentals using 
+  - Arduino
+  - ESP8266, EP32
+  - BBC micro:Bit
+  - RaspberryPi 
 - Coding in HTML & CSS (websites)
 - Development of simple mobile apps
 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
-Please make sure you have obtained a ticket (FREE) using the links below and also registered at our Learning Management System. We use the Learning Management system to give you access to the tutorials and also track your childs progress through the program.
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System. We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
+
+To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions. 
 
 ## What Are The Courses Offered
 
