@@ -49,9 +49,9 @@ We might consider folowing a syllabus where it makes sense, especially with our 
   - Coding in Scratch 
   - Google CS (Computer Science) First curriculum
   - Microsoft Computer Science curriculum using Minecraft 
-- Python developing on the Raspberry Pi
+- Python developing on the Raspberry Pi 
 - Minecraft gaming & development
-- Electronics fundamentals using 
+- Electronics fundamentals using -
   - Arduino
   - ESP8266, EP32
   - BBC micro:Bit
@@ -65,7 +65,7 @@ Access to all the course content at CoderDojo Altona North is offered through ou
 
 To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions. 
 
-## What Are The Courses Offered
+## What Are The Making / Creating Tracks On Offer
 
 The following courses are available at Coder Dojo Altona North. Please note that not all courses might be on offer every semester. 
 
@@ -98,7 +98,7 @@ The following courses are available at Coder Dojo Altona North. Please note that
   * Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum) 
   * Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)
 
-Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. 
+Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System (Schoology). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 ## Who Runs The CoderDojo
 
