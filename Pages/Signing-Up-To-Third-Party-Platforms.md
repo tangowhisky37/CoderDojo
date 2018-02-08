@@ -53,3 +53,12 @@ Head over to Tynker and sign up as a student. We have three courses on offer, pl
 
 Tynker has many other courses and learning plans to offer. You are free to sign up to the commercial version to get access to rest of the learning plans not available to free users.  
 
+## Class Activity - Hour Of Code
+
+At CoderDojo Altona North we encourage kids to try out different hour of code activities from time to time. Code.org offers a number of coding, making, creative activities from 5-15 year olds across a host of different languages and platforms. All of the hour of code activities are totally free and some might require a one time registration. 
+
+To access the Hour of Code activities head over to [Code.org](https://code.org/learn) and choose from the list of activites there.
+
+If you need any guidance or support picking an adventure, please reach out to one of the volunteers or mentors during the session.
+
+
