@@ -90,10 +90,13 @@ The following courses are available at Coder Dojo Altona North. Please note that
   * Scratch Term 3 : Advanced
   * Scratch Junior : Playful Learning (5-6 year olds)
   * Developing Games In Scratch
-* Miscellaneous - 
+* Code Ninjas - 
   * Code Monkey - Introduction to Coffeescript 
   * Code Combat - Introduction To Computer Science
   * Programming with Minecraft (Planned)
+* Computer Science Fundamentals -
+  * Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum) 
+  * Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)
 
 Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we'll consider offering additional courses. 
 
