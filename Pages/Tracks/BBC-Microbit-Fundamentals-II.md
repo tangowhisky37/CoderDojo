@@ -3,6 +3,8 @@
 
 This section lists the content covered under the BBC micro:bit fundamentals II track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Magic 8 Ball
 - Lesson 2  : Guess The Number
 - Lesson 3  : Counter

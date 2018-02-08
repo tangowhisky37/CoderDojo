@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Scratch Advanced Concepts - Term 3 track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Username generator
 - Lesson 2  : Green your city
 - Lesson 3  : Synchronised swimming

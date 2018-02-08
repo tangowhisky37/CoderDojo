@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Python On The Microbit track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Hello world
 - Lesson 2  : Images and animation
 - Lesson 3  : Buttons, events and loops

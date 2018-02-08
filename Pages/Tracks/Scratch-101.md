@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Scratch 101 track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Introduction to Scratch
 - Lesson 2  : Make a birthday card
 - Lesson 3  : Animate a name

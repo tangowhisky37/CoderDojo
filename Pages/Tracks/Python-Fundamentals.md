@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Python Fundamentals track.
 
+This course is designed to run through two entire terms (10-12 weeks each term) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : About me + Story time
 - Lesson 2  : Rock-Paper-Scissors
 - Lesson 3  : Turtle Race

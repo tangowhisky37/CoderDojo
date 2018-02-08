@@ -3,6 +3,8 @@
 
 This section lists the content covered under the BBC micro:bit Fundamentals III Making & Creating track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : The Watch Maker
 - Lesson 2  : Hack Your Headphone
 - Lesson 3  : The Banana Keyboard

@@ -3,6 +3,8 @@
 
 This section lists the content covered under the BBC micro:bit fundamentals I track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Beautiful Image
 - Lesson 2  : Lucky7
 - Lesson 3  : Answering Machine

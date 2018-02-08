@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Scratch Fundamentals - Term 1 track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Let's make a rock band
 - Lesson 2  : Lost in space
 - Lesson 3  : Ghostbusters

@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Scratch Junior track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Can i make my car drive around the city
 - Lesson 2  : Can i make my characters run a race
 - Lesson 3  : Can i make the sun set

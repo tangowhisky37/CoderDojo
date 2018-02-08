@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Web Fundamentals track.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Happy Birthday
 - Lesson 2  : Tell A Story
 - Lesson 3  : Wanted

@@ -3,6 +3,8 @@
 
 This section lists the content covered under the Scratch Advanced Concepts - Developing Games.
 
+This course is designed to run through an entire term (10-12 weeks) assuming that one lesson is worked upon at every class. 
+
 - Lesson 1  : Introduction
 - Lesson 2  : Getting started with scratch and developing games
 - Lesson 3  : Rainbow lines in space
