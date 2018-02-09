@@ -5,6 +5,8 @@ This section lists the content covered under the Google Computer Science First t
 
 This course is designed to run through 9 entire terms (10-12 weeks each term) assuming that one lesson is worked upon at every class. 
 
+Computer science is a 21st-century skill that enables kids to be creators, rather than just consumers, of technology. Its emphasis on problem solving is applicable across disciplines, driving growth and innovation across all sectors of the workforce. As part of Google Computer Science First students create computer science projects around different themes such as Sports, Art, and Fashion. Each theme contains 8 lessons of 60-90 minutes that can be tailored to fit your schedule. Google Computer Science First leverages the Scratch programming language (created by the Lifelong Kindergarden Lab at MIT).
+
 - Level 0 -
   - Term 1 : StoryTelling -
     - Lesson 1  : Check It Out
