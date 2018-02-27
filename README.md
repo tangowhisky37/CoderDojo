@@ -7,7 +7,7 @@ At this page you will find all the information required to sign-up to CoderDojo 
 
 ![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Altona_North_v0.11.png" | absolute_url }})
 
-Have a look at what CoderDojo Altona North has to offer - [What's On Offer](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/coder_dojo_invite_altona_north_multi_colored_180118.png). If you are keen on working with kids and building the next generation of makers then head over and check out - [Volunteering @ CoderDojo Altona North](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/CoderDojo_SQ_Why_Mentor_Start_Flyer_A5_180118.png).
+Have a look at what CoderDojo Altona North has to offer - [What's On Offer](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/coder_dojo_invite_altona_north_multi_colored_280218.png). If you are keen on working with kids and building the next generation of makers then head over and check out - [Volunteering @ CoderDojo Altona North](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/CoderDojo_SQ_Why_Mentor_Start_Flyer_A5_180118.png).
 
 The official link to the website is [altonanorthdojo.com](http://altonanorthdojo.com). You can reach us on email at dojo@hack2.live. 
 
