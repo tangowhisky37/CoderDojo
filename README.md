@@ -15,6 +15,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 See all relevant news and updates here...... 
 
+- 030418 : Term 2 2018 starts on the 14th of April 2018 and ends on the 30th of June 2018. Dates for Term 3 are 21st July to 22nd September and Term 4 are 13th October to 22nd December. We are in the process of confirming enrollments for this semester and working through the current applications.
 - 200318 : Term 1 2018 ends on the 24th of March 2018 & Term 2 2018 starts on 14th April 2018. Parents interested in a spot for next term should fill up the "Register Interest" form and reach us on the email below. 
 - 020218 : Parents interested in starting next term i.e. Term 2 2018, should fill in the "Register Interest" form in the "How To Book A Seat Section" below. 
 - 270118 : Classes for Term 1 2018 have begun. Thanks to Hobsons Bay Council, we will be running our classes at the Altona North Community Library - 1000 Hrs AEST on Sat. Only those with confirmed enrollments can attend. 
