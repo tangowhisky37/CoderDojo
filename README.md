@@ -69,7 +69,7 @@ To attend the sessions please see the "Howto Book A Seat" section below. Our ses
 
 ## What Are The Making / Creating Tracks On Offer
 
-For details on the various learning tracks on offer at CoderDojo Altona North please visit - [Hacking & Making Tracks On Offer](https://tangowhisky37.github.io/CoderDojo/Pages/Hacking-Making-Tracks). 
+For details on the various learning tracks on offer at CoderDojo Altona North please visit - [Hacking & Making Tracks On Offer](https://tangowhisky37.github.io/CoderDojo/Pages/Hacking-Making-Tracks). To understand how the tracks we offer aligns with the Australian Digital Curriclum please visit - [Australian Digital Curriculum Map](https://www.codeclubau.org/curriculum/overview.html). 
 
 Please note that not all courses might be on offer every semester. Parents are requested to check with the team to confirm which course is being offered. 
 
