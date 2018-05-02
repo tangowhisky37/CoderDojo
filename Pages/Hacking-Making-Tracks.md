@@ -35,6 +35,7 @@ The following courses are available at Coder Dojo Altona North. Please note that
   * [BBC Microbit Making & Creating](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/BBC-Microbit-Fundamentals-III)
 * Electronics 101 -
   * [Introduction to electronics using the BBC Microbit](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Fundamentals-Of-Electronics-Using-The-BBC-Microbit)
+  * Introduction to electronics using Paper Circuits
   * Introduction to electronics using the Raspberry Pi (Planned)
   * Introduction to electronics using the Arduino (Planned)
 * Web development fundamentals -
@@ -57,6 +58,8 @@ The following courses are available at Coder Dojo Altona North. Please note that
 * Computer Science Fundamentals -
   * [Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Google-Computer-Science-First)
   * [Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/MS-Computer-Science-Minecraft)
+* 3D Modelling & 3D Printing - 
+  * 3D modelling using Blender (Planned)
 
 Please click on each of the tracks to see details of the topics covered. 
 
