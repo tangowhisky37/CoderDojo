@@ -54,10 +54,14 @@ The following courses are available at Coder Dojo Altona North. Please note that
 * Code Ninjas -
   * Code Monkey - Introduction to Coffeescript
   * Code Combat - Introduction To Computer Science
-  * Programming with Minecraft (Planned)
 * Computer Science Fundamentals -
   * [Introduction to Computer Science Fundamentals through Google CS First (Scratch based curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/Google-Computer-Science-First)
   * [Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/MS-Computer-Science-Minecraft)
+* Minecraft Programming - 
+  * Fundamentals of Minecraft programming 
+* Robotics - 
+  * Programming mBot using Scratch 
+  * Programming GoPiGo using Python (Planned)
 * 3D Modelling & 3D Printing - 
   * 3D modelling using Blender (Planned)
 
