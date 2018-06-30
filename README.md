@@ -98,18 +98,15 @@ If you have any questions please drop us an email at dojo@hack2.live.
 
 ## Howto Book A Seat
 
-This is a two step process. 
+This is a simple single process. 
 
 * Please register interest using the following form - [Link](https://goo.gl/forms/43G3lHd4SyxbPF9i1)
-* Head over to the events page and book a seat - [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers). 
 
-Seats are limited, so please make sure you have reserved a seat for the session. 
+Seats are limited and are offered on first come first serve basis. Registering interest doesn't mean that you have a confirmed seat. We keep pruning the waiting list and will confirm a seat once a spot is available for you and your child.  
 
 **Most of our sessions are now waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted**.
 
-We recommend parents register interest using the form provided. You should register initerest even if you haven't been able to secure a place for the current term. Based on the numbers in the wait list we'll allocate places for the next term. 
-
-If you have any questions please drop us an email at dojo@hack2.live. 
+We recommend parents register interest using the form provided. You should register initerest even if you haven't been able to secure a place for the current term. Based on the numbers in the wait list we'll allocate places for the next term. If you have any questions please drop us an email at dojo@hack2.live. 
 
 ## How Do I Register With the Learning Management System 
 
