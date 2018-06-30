@@ -1,7 +1,7 @@
 # theme: jekyll-theme-hydejack
 remote_theme: qwtel/hydejack@gem
 title: CoderDojo Altona North
-description: Coding Organization for kids
+description: Code Club for kids
 repository: tangowhisky37/tangowhisky37.github.io/CoderDojo/
 
 
@@ -31,6 +31,7 @@ defaults:
 author:
   social:
     twitter: https://twitter.com/tangowhisky37
-    github: https://github.com/tangowhisky37/CoderDojo
+    github:  https://github.com/tangowhisky37/CoderDojo
+    email:   mailto:dojo@hack2.live
   name: Trevor Warren
-  email: trevor@practicalperformanceanalyst.com
+  email: trevor@hack2.live
