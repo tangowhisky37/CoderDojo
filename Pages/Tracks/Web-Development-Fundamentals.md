@@ -18,4 +18,4 @@ This course is designed to run through an entire term (10-12 weeks) assuming tha
 - Lesson 11 : Magazine
 - Lesson 12 : Pixel Art
 
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. Schoology (http://schoology.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. [KidzCanCode LMS](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 

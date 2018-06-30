@@ -69,6 +69,6 @@ Please click on each of the tracks to see details of the topics covered.
 
 Parents are requested to check with the team to confirm which course is being offered. Based on availability of volunteers we’ll consider offering additional courses
 
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. Schoology. We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. [KidzCanCode LMS](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 To attend the sessions please see the “Howto Book A Seat” section below. Our sessions are wait-listed and parents are required to request an enrollment using the “Register Interest” form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions.

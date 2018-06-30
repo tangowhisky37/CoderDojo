@@ -1,20 +1,19 @@
 
 ## How Do I Register With the Learning Management System 
 
-At the Altona North Coder Dojo we are using the [Schoology](http://schoology.com/) Learning Management System or LMS. The Learning Management system allows us to track your childs progress through the program, your attendance through the program and also the progress through the various tutorials assigned during the term.
+At the Altona North Coder Dojo we are using the [KidzCanCode](https://learning.kidzcancode.com/) Learning Management System or LMS. The Learning Management system allows us to track your childs progress through the program, your attendance through the program and also the progress through the various tutorials assigned during the term.
 
 Please register your child using the following link - 
 
-- Please head over to [https://www.schoology.com/](http://schoology.com/) and create a new account
-- Please select the "Student" option when creating a new account
-- Please select "Altona North Coder Dojo" when asked for a school
-- Please use the following Course Code, VV268-4D7FF which will give you access to the first term of programming with Scratch. 
+- Please head over to [https://learning.kidzcancode.com/](https://learning.kidzcancode.com/) and create a new account
+- Please choose an account name which has your childs name + surname in it e.g. For a child named Jack Piper you might choose "jpiper" as the user account. 
+- Choosing a sensible account name makes it easy for us to manage accounts, assign relevant courses and track progress. Please make it easy for us to manage your account.
+- We will delete your account and have to re-create it if you end up making things too complex for us.
+- Once you have registered you should have access to some of the courses. We will provision access to additional courses as your child progresses with their learning. 
 
 Through the term your childs progress will be asssed and you child will be assigned to other Scratch, Python, Web Programming courses including electronics and robotics. 
 
 Please note that you will not be able to access any of the tutorials for Coder Dojo sessions unless you've signed up to the Learning Management System. There is a lot of content that's only made avaialable through the LMS so please hop on board, you'll be using that at almost every class. 
-
-After you've created the account and are logging in, you might be asked for the school name. Please enter the same school you used at registration i.e. "Altona North Coder Dojo".
 
 If you have any questions please drop us an email at dojo@hack2.live. 
 

@@ -20,4 +20,4 @@ This is an advanced course that delves on making interactive games using Scratch
 - Lesson 9  : Asteriod breaker......in space!!!!
 - Lesson 10 : Making an advanced platformer
 
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. Schoology (http://schoology.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. [KidzCanCode LMS](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 

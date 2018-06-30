@@ -60,4 +60,4 @@ This course provides an introduction to the basics of various electronics concep
 - Lesson 22 : Create a Traffic Light Using 3 LEDs and a HC SR04 (Distance Sensor)
 - Lesson 23 : Measuring algae in water using an LDR and an LED to determine if the water needs to be refreshed
 
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. Schoology (http://schoology.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. [KidzCanCode LMS](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 

@@ -75,7 +75,7 @@ For details on the various learning tracks on offer at CoderDojo Altona North pl
 
 Please note that not all courses might be on offer every semester. Parents are requested to check with the team to confirm which course is being offered. 
 
-Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System (Schoology). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
+Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System [KidzCanCode LMS](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 ## Who Runs The CoderDojo
 
@@ -111,9 +111,9 @@ If you have any questions please drop us an email at dojo@hack2.live.
 
 ## How Do I Register With the Learning Management System 
 
-At the Altona North Coder Dojo we are using the [Schoology](http://schoology.com/) Learning Management System or LMS. The Learning Management system allows us to track your childs progress through the program, your attendance through the program and also the progress through the various tutorials assigned during the term.
+At the Altona North Coder Dojo we have setup our Learning Management System at [learning.kidzcancode.com](https://learning.kidzcancode.com/) Learning Management System or LMS. The Learning Management system allows us to track your childs progress through the program, your attendance through the program and also the progress through the various tutorials assigned during the term.
 
-Please head over to [3rd Party Platform Registration](https://tangowhisky37.github.io/CoderDojo/Pages/Signing-Up-To-Third-Party-Platforms) page for details on signing up to Schoology.
+Please head over to [3rd Party Platform Registration](https://tangowhisky37.github.io/CoderDojo/Pages/Signing-Up-To-Third-Party-Platforms) page for details on signing up to the KidzCanCode LMS.
 
 If you have any questions please drop us an email at dojo@hack2.live. 
 

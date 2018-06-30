@@ -23,4 +23,4 @@ In this course we will cover the absolute fundamentals of interacting and progra
 - Lesson 12 : Game Counter
 - Lesson 13 : Happy Birthday
 
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. Schoology (http://schoology.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System i.e. [KidzCanCode LMS](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term. Please ask your course volunteers/mentors for the course access code which you will need to be able to access the above content. 
