@@ -1,1 +1,36 @@
-theme: jekyll-theme-architect
+# theme: jekyll-theme-hydejack
+remote_theme: qwtel/hydejack@gem
+title: CoderDojo Altona North
+description: Coding Organization for kids
+repository: tangowhisky37/tangowhisky37.github.io/CoderDojo/
+
+
+## Customizaton
+## ========================================================================================
+
+font: "'Noto Sans', Helvetica, Arial, sans-serif"
+font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
+google_fonts: "Roboto+Slab:700|Noto+Sans:400,400i,700,700i"
+
+## Sidebar image and theme color of the site.
+accent_image: Images/coderdojo_term4_2017.jpg
+accent_color: '#4fb1ba'
+
+defaults:
+  - scope:
+      path: Pages/site/about.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: Pages/site/newsupdates.md
+    values:
+      menu: true
+      order: 2
+
+author:
+  social:
+    twitter: https://twitter.com/tangowhisky37
+    github: https://github.com/tangowhisky37/CoderDojo
+  name: Trevor Warren
+  email: trevor@practicalperformanceanalyst.com
