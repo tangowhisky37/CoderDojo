@@ -1,6 +1,4 @@
 
-# Hacking & Making Tracks @ Coder Dojo Altona North
-
 At CoderDojo Altona North our aim is to ignite, inspire and create. We strongly believe that every child is a born maker, however it's only through providing our kids the right environment can we aim to ignite those interests and inspire them to create, make and transform. At CoderDojo Altona North there is a strong focus on community, peer learning, youth mentoring and self led learning. There is a large emphasis on showing how coding, making and hacking is a force for change in the world and for transforming lives. Our environment at Coder Dojo Altona North includes offering kids/parents access to the right set of tools, development tracks, curriculum content, safe space to create/make and most importantly the volunteer/mentors who support the parent/child team all through the term.  
 
 At a high level the focus areas for CoderDojo Altona North include -
