@@ -3,8 +3,6 @@ layout: page
 title: News & Updates
 ---
 
-## News & Updates
-
 See all relevant news and updates here......
 
 - 100618 : Our last class for term 2 is on the 23rd of June 18. Kids will present their term projects on 23rd June. Term 3 starts on the 23rd of July. Please see the "HowTo Book A Seat" section below to "Register Interest" and request for enrollment.

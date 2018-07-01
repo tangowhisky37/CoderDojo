@@ -39,7 +39,7 @@ defaults:
       order: 4
   - scope: 
       path: Pages/site/misc.md
-    value:
+    values:
       menu: true
       order: 5
 

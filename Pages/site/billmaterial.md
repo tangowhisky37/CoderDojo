@@ -3,8 +3,6 @@ layout: page
 title: Bill Of Material
 ---
 
-## Bill Of Material
-
 Certain courses require investment in hardware kits. While we have provided a link to the kits from a particular store you are free to pick up the components from any store of your choice or even re-use an existing part/component/board if you have a spare one lying around at home. We have no affialiation with any of the vendors listed on this page and any transaction you perform is between you and the vendor....be rest assured.
 
 This section lists of the BOM (Bill Of Material) for the relevant courses.
