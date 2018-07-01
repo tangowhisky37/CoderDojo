@@ -16,6 +16,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 ## Class Pictures
 
 - [Term 4 2017](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term4_2017.jpg)
+- [Term 2 2018](https://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term-2_2018.jpg)
 
 ## What Is A CoderDojo
 
@@ -43,7 +44,7 @@ We might consider folowing a syllabus where it makes sense, especially with our 
 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System. We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System accessible through [KidzCanCode](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions.
 
@@ -53,7 +54,7 @@ For details on the various learning tracks on offer at CoderDojo Altona North pl
 
 Please note that not all courses might be on offer every semester. Parents are requested to check with the team to confirm which course is being offered.
 
-Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System (Schoology). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
+Based on availability of volunteers we'll consider offering additional courses. Access to all the course content at CoderDojo Altona North is offered through our Learning Management System at [KidzCanCode](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 ## Who Runs The CoderDojo
 

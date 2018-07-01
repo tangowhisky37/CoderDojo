@@ -5,6 +5,7 @@ title: News & Updates
 
 See all relevant news and updates here......
 
+- 230618 : Term 2 2018 has now come to a close. Term 3 2018 starts on the 23rd of July 2018. Please refer to the instructions at the "HowTo Book A Seat" section to request for enrollment. New requests will be on a waiting list.
 - 100618 : Our last class for term 2 is on the 23rd of June 18. Kids will present their term projects on 23rd June. Term 3 starts on the 23rd of July. Please see the "HowTo Book A Seat" section below to "Register Interest" and request for enrollment.
 - 210418 : Term 2 2018 now underway. Our little hackers are doing what they do best i.e. code/program/hack/work on cool projects. Parent's keen on enrolling for Term 4 2018, Term 1 2019 should request a spot using the "Register Interest" form  in the "How To Book A Seat Section below" and reach out to us over email.
 - 030418 : Term 2 2018 starts on the 14th of April 2018 and ends on the 30th of June 2018. Dates for Term 3 are 21st July to 22nd September and Term 4 are 13th October to 22nd December. We are in the process of confirming enrollments for this semester and working through the current applications.
