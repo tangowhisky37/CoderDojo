@@ -79,11 +79,11 @@ This is a simple three step process.
 
 * Please register interest using the following form - [Link](https://goo.gl/forms/43G3lHd4SyxbPF9i1)
 * Drop us a note at dojo@hack2.live letting us know that you've filled up the form and registered interest
-* Sit back and wait for us. We'll let you know when a seat opens up. 
+* Sit back and relax. We'll let you know when a seat opens up. Drop us a note if you would like an update.  
 
 Seats are limited, so please make sure you have registered interest well in advance. We keep pruning the waiting list and will let you know when a seat opens up. It's likely that this might not happen in the timeframe you expect. If you are unable to take the seat when offered, you will have to go back to the end of the waiting list. 
 
-**Please Note - Admission to Altona North CoderDojo are being waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are on the waiting list.**.
+**Please Note - Requests for admission to Altona North CoderDojo are now being waitlisted**. **Parents/Kids who miss two sessions in a row without prior notice will give up their place to others who are on the waiting list.**.
 
 If you have any questions please drop us an email at dojo@hack2.live.
 
