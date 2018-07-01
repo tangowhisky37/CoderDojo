@@ -96,7 +96,7 @@ So come join us, have fun and share in the learning. Let's Ignite the flame of l
 
 If you have any questions please drop us an email at dojo@hack2.live. 
 
-## Howto Book A Seat
+## How to Book A Seat
 
 This is a simple single process. 
 

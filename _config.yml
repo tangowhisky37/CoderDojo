@@ -18,15 +18,30 @@ accent_color: '#4fb1ba'
 
 defaults:
   - scope:
-      path: Pages/site/about.md
+      path: Pages/site/newsupdates.md
     values:
       menu: true
       order: 1
   - scope:
-      path: Pages/site/newsupdates.md
+      path: Pages/site/signup.md
     values:
       menu: true
       order: 2
+  - scope: 
+      path: Pages/site/billmaterial.md
+    values: 
+      menu: true
+      order: 3
+  - scope:
+      path: Pages/site/projecttools.md
+    values:
+      menu: true
+      order: 4
+  - scope: 
+      path: Pages/site/misc.md
+    value:
+      menu: true
+      order: 5
 
 author:
   social:
