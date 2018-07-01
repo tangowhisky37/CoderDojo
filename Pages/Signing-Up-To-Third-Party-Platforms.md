@@ -1,5 +1,7 @@
-
-## How Do I Register With the Learning Management System 
+---
+layout: page
+title: How Do I Register With the Learning Management System 
+---
 
 At the Altona North Coder Dojo we are using the [KidzCanCode](https://learning.kidzcancode.com/) Learning Management System or LMS. The Learning Management system allows us to track your childs progress through the program, your attendance through the program and also the progress through the various tutorials assigned during the term.
 

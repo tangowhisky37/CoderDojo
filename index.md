@@ -75,16 +75,15 @@ If you have any questions please drop us an email at dojo@hack2.live.
 
 ## Howto Book A Seat
 
-This is a two step process.
+This is a simple three step process.
 
 * Please register interest using the following form - [Link](https://goo.gl/forms/43G3lHd4SyxbPF9i1)
-* Head over to the events page and book a seat - [CoderDojo Altona North Booking Page](https://zen.coderdojo.com/dojos/au/altona-north-victoria/altona-north-junior-hackers).
+* Drop us a note at dojo@hack2.live letting us know that you've filled up the form and registered interest
+* Sit back and wait for us. We'll let you know when a seat opens up. 
 
-Seats are limited, so please make sure you have reserved a seat for the session.
+Seats are limited, so please make sure you have registered interest well in advance. We keep pruning the waiting list and will let you know when a seat opens up. It's likely that this might not happen in the timeframe you expect. If you are unable to take the seat when offered, you will have to go back to the end of the waiting list. 
 
-**Most of our sessions are now waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are waitlisted**.
-
-We recommend parents register interest using the form provided. You should register initerest even if you haven't been able to secure a place for the current term. Based on the numbers in the wait list we'll allocate places for the next term.
+**Please Note - Admission to Altona North CoderDojo are being waitlisted**. **If you miss two sessions in a row without prior notice your place will be offered to others who are on the waiting list.**.
 
 If you have any questions please drop us an email at dojo@hack2.live.
 
