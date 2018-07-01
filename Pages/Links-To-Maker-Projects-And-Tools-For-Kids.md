@@ -1,3 +1,6 @@
+
+# Links to Maker Projects & Tools for Kids 
+
 Parent's looking for links to maker projects (software projects, hardware or electronics projects, etc.) aimed at kids including tools that they could use can consider the links below -
 
 * [ScratchJr](http://scratchjr.org/)
