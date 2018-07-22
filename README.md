@@ -15,6 +15,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 See all relevant news and updates here...... 
 
+- 210718 : Term 3 2018 has begun. Classes will run during the following dates during term 3 2018 - 21st July to 22nd September and following dates for term 4 - 13th October to 22nd December. Enrollments for this semester have been confirmed and parents have been notified. Please refer to the instructions at the "Howto Book A Seat" section to request for an enrollment. Please be patient, we do track and prune the waiting list and will be in touch when a spot opens up.
 - 230618 : Term 2 2018 has now come to a close. Term 3 2018 starts on the 23rd of July 2018. Please refer to the instructions at the "HowTo Book A Seat" section to request for enrollment. New requests will be on a waiting list. 
 - 100618 : Our last class for term 2 is on the 23rd of June 18. Kids will present their term projects on 23rd June. Term 3 starts on the 23rd of July. Please see the "HowTo Book A Seat" section below to "Register Interest" and request for enrollment. 
 - 210418 : Term 2 2018 now underway. Our little hackers are doing what they do best i.e. code/program/hack/work on cool projects. Parent's keen on enrolling for Term 4 2018, Term 1 2019 should request a spot using the "Register Interest" form  in the "How To Book A Seat Section below" and reach out to us over email. 
