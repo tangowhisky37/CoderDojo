@@ -9,8 +9,10 @@ At a high level the focus areas for CoderDojo Altona North include -
 
 - Introduction to Computer Science through -
   - Coding in Scratch
+  - Coding using the BBC micro:bit
   - Google CS (Computer Science) First curriculum
   - Microsoft Computer Science curriculum using Minecraft
+- Robotics using Makeblock robotics kits
 - Python developing on the Raspberry Pi
 - Minecraft gaming & development
 - Electronics fundamentals using
@@ -20,6 +22,8 @@ At a high level the focus areas for CoderDojo Altona North include -
   - RaspberryPi
 - Coding in HTML & CSS (websites)
 - Development of simple mobile apps
+
+We have moved all our tutorials and learning tracks to our Learning Management System (LMS) at [KidzCanCode.com](https://learning.kidzcancode.com/). Check out the website for detailed tutorials.
 
 The following sections offer more details on the content of each of the tracks. All questions, comments, input and feedback to dojo@hack2.live
 
@@ -61,9 +65,11 @@ The following courses are available at Coder Dojo Altona North. Please note that
   * [Introduction to Computer Science Fundamentals using Minecraft Education version (Microsoft curriculum)](https://tangowhisky37.github.io/CoderDojo/Pages/Tracks/MS-Computer-Science-Minecraft)
 * Minecraft Programming - 
   * Fundamentals of Minecraft programming 
-* Robotics - 
-  * Programming mBot using Scratch 
-  * Programming GoPiGo using Python (Planned)
+* [Robotics](https://learning.kidzcancode.com/courses/all/robotics/) - 
+  * Programming Makeblock mBot using Block Programming and Arduino IDE
+  * Programming Makeblock mBot Ranger using Block Programming and Arduino IDE
+  * Programming GoPiGo (Raspberry Pi 3 robot) 3 using Python  
+  * Programming Makeblock Codey rocky using Block Programming and Python
 * 3D Modelling & 3D Printing - 
   * 3D modelling using Blender (Planned)
 
