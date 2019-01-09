@@ -15,7 +15,11 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 ## Class Pictures
 
-- [Term 4 2018 - Pic1](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic1.JPG) | [Term 4 2018 - Pic2](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic2.JPG) |  [Term 4 2018 - Pic3](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic3.JPG) |  [Term 4 2018 - Pic4](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic4.JPG)
+- Term 4 Pics - 
+  - [Term 4 2018 - Pic1](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic1.JPG)
+  - [Term 4 2018 - Pic2](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic2.JPG) 
+  - [Term 4 2018 - Pic3](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic3.JPG)
+  - [Term 4 2018 - Pic4](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic4.JPG)
 - [Term 3 2018](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term3_2018.jpg)
 - [Term 2 2018](https://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term-2_2018.jpg)
 - [Term 4 2017](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term4_2017.jpg)
