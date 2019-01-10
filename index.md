@@ -45,6 +45,11 @@ We might consider folowing a syllabus where it makes sense, especially with our 
   - ESP8266, EP32
   - BBC micro:Bit
   - RaspberryPi
+- Robotics 
+  - Makeblock mbot : Arduino / Block programming
+  - Makeblock mbot ranger :  : Arduino / Block programming
+  - Makeblock Codey Rocky :  : Python / Block programming
+  - GoPiGo3 Raspberry Pi Robot 
 - Coding in HTML & CSS (websites)
 - Development of simple mobile apps
 
@@ -53,6 +58,10 @@ You can read more about the CoderDojo movement at [CoderDojo.com](https://coderd
 Access to all the course content at CoderDojo Altona North is offered through our Learning Management System accessible through [KidzCanCode](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions.
+
+## When Do We Meet
+
+CoderDojo Altona North meets on a weekly basis at the Altona North Community library (on Millers road, Altona North). Our classes are held weekly from 1000 - 1200 Hrs AEST every Saturday during the school term. CoderDojo Altona North runs during the school term only. Please see the "HowTo Book A Seat" section below to register. We have a waiting list and will get in touch when a seat opens up.
 
 ## What Are The Making / Creating Tracks On Offer
 
