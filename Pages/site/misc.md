@@ -7,6 +7,7 @@ title: Miscellaneous Links
 
 Here's some of the website we've used. There's no recommended websites or vendors as such. You should review the list below and see who's offering you the best deal.
 
+* [OzToyLib](https://www.oztoylib.com.au)
 * [Adafruit](http://adafruit.com)
 * [Sparkfun](http://sparkfun.com)
 * [Little Bird Electronics](https://littlebirdelectronics.com.au/)
