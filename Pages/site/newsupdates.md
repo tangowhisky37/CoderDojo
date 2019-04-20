@@ -5,6 +5,8 @@ title: News & Updates
 
 See all relevant news and updates here......
 
+- 210419 : Term 2 at CoderDojo Altona North will commence on 4th May 2019. Term 2 dates are 4th May 2019 - 29th June 2019. We are currently in the process of confirming enrollments for Term 2.
+- 260119 : Term 1 has truly commenced. Enrollments for Term 1 2019 are now complete.  If you are looking for a spot for later this year, please refer to the instructions at the [Howto Book A Seat](https://tangowhisky37.github.io/CoderDojo/#howto-book-a-seat) section to request for an enrollment. 
 - 100119 : We are in the process of finalizing enrollments for Term 1 2019. Dates for Term 1 2019 are 26th January 2019 - 6th April 2019. 
 - 221218 : Term 4 has come to an end. The end of term was marked with a final project presentation followed by our annual christmas party. Thanks to parents/kids for presenting their term projects and helping out with the xmas party. If you are looking for a spot, please refer to the instructions at the [Howto Book A Seat](https://tangowhisky37.github.io/CoderDojo/#howto-book-a-seat) section to request for an enrollment.
 - 230718 : Term 3 2018 has come to an end. Thanks to parents/kids for presenting their term projects, very well done. Term 4 dates are 13th October to 22nd December 2018, Term 1 2019 dates are - 26th January to 6th April 2019. If you are looking for a spot, please refer to the instructions at the [Howto Book A Seat](https://tangowhisky37.github.io/CoderDojo/#howto-book-a-seat) section to request for an enrollment. Please be patient, we do track and prune the waiting list and will be in touch when a spot does open up. 

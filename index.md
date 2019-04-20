@@ -15,11 +15,14 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 ## Class Pictures
 
-- Term 4 Pics - 
-  - [Term 4 2018 - Pic1](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic1.JPG)
-  - [Term 4 2018 - Pic2](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic2.JPG) 
-  - [Term 4 2018 - Pic3](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic3.JPG)
-  - [Term 4 2018 - Pic4](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic4.JPG)
+- Term 1 2019
+  - [Term 1 2019 - Pic 1](http://tangowhisky37.github.io/CoderDojo/Images/term_1_2019_pic_1.jpg)
+  - [Term 1 2019 - Pic 2](http://tangowhisky37.github.io/CoderDojo/Images/term_1_2019_pic_2.jpg)
+- Term 4 2018  
+  - [Term 4 2018 - Pic 1](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic1.JPG)
+  - [Term 4 2018 - Pic 2](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic2.JPG) 
+  - [Term 4 2018 - Pic 3](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic3.JPG)
+  - [Term 4 2018 - Pic 4](http://tangowhisky37.github.io/CoderDojo/Images/Term_4_2018_Pic4.JPG)
 - [Term 3 2018](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term3_2018.jpg)
 - [Term 2 2018](https://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term-2_2018.jpg)
 - [Term 4 2017](http://tangowhisky37.github.io/CoderDojo/Images/coderdojo_term4_2017.jpg)
@@ -32,30 +35,9 @@ At CoderDojo Altona North, young people aged between 7 and 17, learn how to code
 
 At CoderDojo Altona North our aim is to Ignite, Inspire and Create. We strongly believe that every child is a born  maker. What she/he needs is the right environment to Ignite those interests and Inspire them to Create. At CoderDojo Altona North there is a strong focus on community, peer learning, youth mentoring and self led learning, with an emphasis on showing how coding, making and hacking is a force for change in the world.
 
-We might consider folowing a syllabus where it makes sense, especially with our young makers who are getting started. With the more experienced makers we will let the kids choose what they want to work on, and the mentors guide and help them along their journey of discovery into the world of technology. Some of the things we do at CoderDojo Altona North include:
-
-- Introduction to Computer Science through -
-  - Coding in Scratch
-  - Google CS (Computer Science) First curriculum
-  - Microsoft Computer Science curriculum using Minecraft
-- Python developing on the Raspberry Pi
-- Minecraft gaming & development
-- Electronics fundamentals using -
-  - Arduino
-  - ESP8266, EP32
-  - BBC micro:Bit
-  - RaspberryPi
-- Robotics 
-  - Makeblock mbot : Arduino / Block programming
-  - Makeblock mbot ranger :  : Arduino / Block programming
-  - Makeblock Codey Rocky :  : Python / Block programming
-  - GoPiGo3 Raspberry Pi Robot 
-- Coding in HTML & CSS (websites)
-- Development of simple mobile apps
+We might consider folowing a syllabus where it makes sense, especially with our young makers who are getting started. With the more experienced makers we will let the kids choose what they want to work on, and the mentors guide and help them along their journey of discovery into the world of technology. 
 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
-
-Access to all the course content at CoderDojo Altona North is offered through our Learning Management System accessible through [KidzCanCode](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions.
 
@@ -66,6 +48,8 @@ CoderDojo Altona North meets on a weekly basis at the Altona North Community lib
 ## What Are The Making / Creating Tracks On Offer
 
 For details on the various learning tracks on offer at CoderDojo Altona North please visit - [Hacking & Making Tracks On Offer](https://tangowhisky37.github.io/CoderDojo/Pages/Hacking-Making-Tracks). To understand how the tracks we offer aligns with the Australian Digital Curriclum please visit - [Australian Digital Curriculum Map](https://www.codeclubau.org/curriculum/overview.html).
+
+Access to all the course content at CoderDojo Altona North is offered through our Learning Management System accessible through [KidzCanCode](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
 Please note that not all courses might be on offer every semester. Parents are requested to check with the team to confirm which course is being offered.
 
