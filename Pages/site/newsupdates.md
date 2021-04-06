@@ -5,7 +5,7 @@ title: News & Updates
 
 See all relevant news and updates here......
  
-- 270321 : Term 1 has come to an end. Term 2 runs from 24th April 2021 until 26th June 2021. See you all in class. 
+- 270321 : Term 1 has come to an end. Term 2 runs from 24th April 2021 until 26th June 2021. If you are looking for a spot, please refer to the instructions at the [Howto Book A Seat] 
 - 300121 : We are back and restarting classes end Jan 2021. We will be commencing weekly classes as usual and running for the whole of term 1 2021. 
 - 150320 : Classes have been suspended indefinitely. The library is closed and with the impending lockdown we are unsure as to when we will get back in class.
 - 210419 : Term 2 at CoderDojo Altona North will commence on 4th May 2019. Term 2 dates are 4th May 2019 - 29th June 2019. We are currently in the process of confirming enrollments for Term 2.
