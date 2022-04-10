@@ -5,6 +5,7 @@ title: News & Updates
 
 See all relevant news and updates here......
  
+- 100422 : Term 1 2022 has come to an end. Term 2 will run from 30th April 2022 to 2nd June 2022. If you are looking to volunteer please drop us a note at volunteering@hack2.live or volunteering@practicalperformanceanalyst.com with your CV and if you are looking for a spot for your child at the Dojo, please refer to the instructions at the [Howto Book A Seat](https://tangowhisky37.github.io/CoderDojo/#howto-book-a-seat) section to request for an enrollment.
 - 270321 : Term 1 has come to an end. Term 2 runs from 24th April 2021 until 26th June 2021. If you are looking for a spot, please refer to the instructions at the [Howto Book A Seat](https://tangowhisky37.github.io/CoderDojo/#howto-book-a-seat) section to request for an enrollment.
 - 300121 : CoderDojo Altona North resumes end Jan 2021. We are back in business. We will be commencing weekly classes as usual and running for the whole of term 1 2021. 
 - 150320 : Classes have been suspended indefinitely. The library is closed and with the impending lockdown we are unsure as to when we will get back in class.
