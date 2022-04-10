@@ -15,6 +15,7 @@ The official link to the website is [altonanorthdojo.com](http://altonanorthdojo
 
 ## Class Pictures
 
+- [Term 1 2022](https://photos.app.goo.gl/6cat44rWW4pzUGUJ7)
 - Term 1 2019
   - [Term 1 2019 - Pic 1](http://tangowhisky37.github.io/CoderDojo/Images/term_1_2019_pic_1.jpg)
   - [Term 1 2019 - Pic 2](http://tangowhisky37.github.io/CoderDojo/Images/term_1_2019_pic_2.jpg)
@@ -43,7 +44,7 @@ To attend the sessions please see the "Howto Book A Seat" section below. Our ses
 
 ## When Do We Meet
 
-CoderDojo Altona North meets on a weekly basis at the Altona North Community library (on Millers road, Altona North). Our classes are held weekly from 1000 - 1200 Hrs AEST every Saturday during the school term. CoderDojo Altona North runs during the school term only. Please see the "HowTo Book A Seat" section below to register. We have a waiting list and will get in touch when a seat opens up.
+CoderDojo Altona North meets on a weekly basis at the Altona North Community library (on Millers road, Altona North). Our classes are held weekly from 0900 - 1100 Hrs AEST every Saturday during the school term. CoderDojo Altona North runs during the school term only. Please see the "HowTo Book A Seat" section below to register. We have a waiting list and will get in touch when a seat opens up.
 
 ## What Are The Making / Creating Tracks On Offer
 
@@ -96,4 +97,4 @@ You’ll need a [Working With Children Check](http://www.workingwithchildren.vic
 
 Finally, we don’t expect our volunteer mentors to attend each and every session. All we ask for is a few hours of your time each week when the dojo is running. If you can’t make a session, then that’s no problem! We’re operate a fun, relaxed, and flexible model for our awesome mentors!
 
-If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at volunteer@hack2.live and let's get the next generation of kids hacking.
+If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at volunteer@hack2.live or trevor@hack2.live and let's get the next generation of kids making/creating/building.
